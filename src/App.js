@@ -1,27 +1,45 @@
-import logo from './logo.svg';
 import './App.css';
+import './index.css'
 import rate from './rate.jpg';
+import logo from './logo.png'
+import { ReactComponent as IconFacebook } from './assets/icons/facebook.svg';
+import { ReactComponent as IconTwitter } from './assets/icons/twitter.svg';
+import { ReactComponent as IconGithub } from './assets/icons/github.svg';
 
 function App() {
   return (
     <div className="App">
     
-      <header className="App-header">
-      <img src={rate} alt='rate'/>
-        <img src={logo} className="App-logo" alt="logo" />
-        <p className='text-3xl'>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <img src='./rate.jpg' alt='rate'/>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
+    <div className="card">
+    <div className="header">
+      <div className="logo">
+        <a href="#"><img className='w-32' src={logo}/></a>
+      </div>
+      <div className="social">
+        <a href="https://facebook.com" title="Facebook" target="_blank" rel="noopener noreferrer">
+          <IconFacebook className="icon" />
         </a>
-      </header>
+        <a href="https://twitter.com" title="Twitter" target="_blank" rel="noopener noreferrer">
+          <IconFacebook className="icon" />
+        </a>
+        <a href="https://github.com/arkn98/coming-soon" title="GitHub" target="_blank" rel="noopener noreferrer">
+          <IconFacebook className="icon" />
+        </a>
+      </div>
+    </div>
+    <div className="content">
+      <div className="title-holder">
+        <h1>Get ready for the change.</h1>
+        <p>Website coming soon. Please check back to know more. Shoot us an email if you're curious.</p>
+      </div>
+      <a href="mailto:payverse@gmail.com">
+        <div className="cta">Send us an email</div>
+      </a>
+    </div>
+    <div className="footer">
+      <span>made by <a className="underlined" href="https://github.com/arkn98" target="_blank" rel="noopener noreferrer">arkn98</a> using <a className="underlined" href="https://reactjs.org/" title="ReactJS" target="_blank" rel="noopener noreferrer">React</a> | <a className="underlined" href="https://github.com/arkn98/coming-soon" title="GitHub repo" target="_blank" rel="noopener noreferrer">GitHub</a></span>
+    </div>
+  </div>
     </div>
   );
 }
