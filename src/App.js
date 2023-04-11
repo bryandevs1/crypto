@@ -12,10 +12,10 @@ function App() {
   return (
     <div className="App">
     
-    <div className="card">
-    <div className="header">
+    <div className="card m-auto lg:mt-24 mb-0">
+    <div className="header -mt-10">
       <div className="logo">
-        <a href="#"><img className='w-36 h-32' src={logo}/></a>
+        <a href="#"><img className='lg:w-36 lg:h-32 -ml-16 md:-ml-0' src={logo}/></a>
       </div>
       <div className="social">
         <a href="https://www.facebook.com/profile.php?id=100089662386775&mibextid=LQQJ4d" title="Facebook" target="_blank" rel="noopener noreferrer">
