@@ -5,6 +5,8 @@ import logo from './logo.png'
 import { ReactComponent as IconFacebook } from './assets/icons/facebook.svg';
 import { ReactComponent as IconTwitter } from './assets/icons/twitter.svg';
 import { ReactComponent as IconGithub } from './assets/icons/github.svg';
+import { ReactComponent as IconTelegram } from './assets/icons/telegram.svg';
+import { IconButton } from '@mui/material';
 
 function App() {
   return (
@@ -13,17 +15,17 @@ function App() {
     <div className="card">
     <div className="header">
       <div className="logo">
-        <a href="#"><img className='w-32' src={logo}/></a>
+        <a href="#"><img className='w-36 h-32' src={logo}/></a>
       </div>
       <div className="social">
-        <a href="https://facebook.com" title="Facebook" target="_blank" rel="noopener noreferrer">
+        <a href="https://www.facebook.com/profile.php?id=100089662386775&mibextid=LQQJ4d" title="Facebook" target="_blank" rel="noopener noreferrer">
           <IconFacebook className="icon" />
         </a>
-        <a href="https://twitter.com" title="Twitter" target="_blank" rel="noopener noreferrer">
-          <IconFacebook className="icon" />
+        <a href="https://twitter.com/payv3rse?s=21&t=W9T650l41dYZ-uWS50co-A" title="Twitter" target="_blank" rel="noopener noreferrer">
+          <IconTwitter className="icon" />
         </a>
-        <a href="https://github.com/arkn98/coming-soon" title="GitHub" target="_blank" rel="noopener noreferrer">
-          <IconFacebook className="icon" />
+        <a href="https://t.me/payv3rsebymac" title="GitHub" target="_blank" rel="noopener noreferrer">
+          <IconTelegram className="icon w-24 -mt-[390px] -mb-96" />
         </a>
       </div>
     </div>
@@ -37,7 +39,7 @@ function App() {
       </a>
     </div>
     <div className="footer">
-      <span>made by <a className="underlined" href="https://github.com/arkn98" target="_blank" rel="noopener noreferrer">arkn98</a> using <a className="underlined" href="https://reactjs.org/" title="ReactJS" target="_blank" rel="noopener noreferrer">React</a> | <a className="underlined" href="https://github.com/arkn98/coming-soon" title="GitHub repo" target="_blank" rel="noopener noreferrer">GitHub</a></span>
+      <span><a className="underlined" href="https://instagram.com/payv3rse?igshid=YmMyMTA2M2Y=" target="_blank" rel="noopener noreferrer">&copy; {new Date().getFullYear()} Payverse  </a></span>
     </div>
   </div>
     </div>

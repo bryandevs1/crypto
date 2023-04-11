@@ -31,6 +31,8 @@
 .logo {
   font-weight: bold;
   font-size: 1.5em;
+  height: 1px;
+  margin-top: -100px;
   transition: opacity 0.05s ease;
 }
 
@@ -40,6 +42,7 @@
 
 .social {
   display: flex;
+  gap: 9px;
 }
 
 .social a {
@@ -58,7 +61,7 @@
 
 .social .icon {
   width: 18px;
-  fill: #fff;
+  fill: #180fbb;
 }
 
 .content {
@@ -98,7 +101,7 @@
 .content .cta {
   min-width: 64px;
   padding: 16px 24px;
-  background: #fff;
+  background: rgb(252, 252, 8);
   border-radius: 50px;
   cursor: pointer;
   text-align: center;
