@@ -12,21 +12,13 @@ function App() {
   return (
     <div className="App">
     
-    <div className="card m-auto lg:mt-24 mb-0">
+    <div className="card m-auto lg:mt-24 mt-6 mb-0">
     <div className="header -mt-10">
       <div className="logo">
-        <a href="#"><img className='lg:w-36 lg:h-32 -ml-16 md:-ml-0' src={logo}/></a>
+        <a href="#"><img className='lg:w-24 lg:h-16 mt-10 -ml-16 md:-ml-0' src={logo}/></a>
       </div>
       <div className="social">
-        <a href="https://www.facebook.com/profile.php?id=100089662386775&mibextid=LQQJ4d" title="Facebook" target="_blank" rel="noopener noreferrer">
-          <IconFacebook className="icon" />
-        </a>
-        <a href="https://twitter.com/payv3rse?s=21&t=W9T650l41dYZ-uWS50co-A" title="Twitter" target="_blank" rel="noopener noreferrer">
-          <IconTwitter className="icon" />
-        </a>
-        <a href="https://t.me/payv3rsebymac" title="GitHub" target="_blank" rel="noopener noreferrer">
-          <IconTelegram className="icon w-24 -mt-[390px] -mb-96" />
-        </a>
+
       </div>
     </div>
     <div className="content">
@@ -34,12 +26,12 @@ function App() {
         <h1>Get ready for the change.</h1>
         <p>Website coming soon. Please check back to know more. Shoot us an email if you're curious.</p>
       </div>
-      <a href="mailto:payverse@gmail.com">
-        <div className="cta">Send us an email</div>
+      <a href="mailto:info@forteimperiali.com">
+        <div className="cta">Shoot us an email</div>
       </a>
     </div>
     <div className="footer">
-      <span><a className="underlined" href="https://instagram.com/payv3rse?igshid=YmMyMTA2M2Y=" target="_blank" rel="noopener noreferrer">&copy; {new Date().getFullYear()} Payverse  </a></span>
+      <span><a className="underlined" href="https://www.instagram.com/interiorbyforte/?hl=en" target="_blank" rel="noopener noreferrer">&copy; {new Date().getFullYear()} Forte Imperiali Interior  </a></span>
     </div>
   </div>
     </div>
