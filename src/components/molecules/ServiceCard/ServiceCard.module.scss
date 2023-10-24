@@ -1,0 +1,46 @@
+@import '@sass/mixins/index';
+
+.service-card {
+  border-radius: 30px;
+  max-width: 39.8rem;
+  text-align: center;
+  transition: background-color 0.5s linear;
+  width: 100%;
+  @include padding-y(3rem);
+
+  @include media-query('lg') {
+    @include padding-y(8.3rem);
+  }
+
+  &__title {
+    margin: 0;
+    @include heading-styles('small');
+  }
+
+  &__description {
+    margin: 0 auto;
+    max-width: 30.8rem;
+
+    @include padding-y($top: 1.3rem, $bottom: 3rem);
+    @include media-query('lg') {
+      @include padding-y($top: 1.3rem, $bottom: 4.6rem);
+    }
+    @include body-styles('large');
+  }
+
+  .arrow-text {
+    transition: color 0.5s linear;
+
+    &:hover .arrow-animation {
+      @include arrow-slide-animation(0.7s);
+    }
+  }
+
+  &:hover {
+    background-color: var(--color-tertiary);
+  }
+
+  &:hover .arrow-text {
+    color: var(--color-primary);
+  }
+}

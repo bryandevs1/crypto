@@ -1,0 +1,34 @@
+{
+  "home": {
+    "image": "/assets/images/heroImages/homehero.jpeg",
+    "blurhash": "UNOzJN%gxv4m~q-;kCt68_WYIUt7-;tRoft7"
+  },
+  "services": {
+    "image": "/assets/images/heroImages/kitch.heic",
+    "blurhash": "UCK-qS%N~qbcIUIUxuWVM|aeofoeM|WCxvWU"
+  },
+  "service": {
+    "image": "/assets/images/heroImages/bright-living-room.jpg",
+    "blurhash": "UNMjzDtS-;D%~qoLt7kB%1-;D%fl8_9Fxuxa"
+  },
+  "projects": {
+    "image": "/assets/images/heroImages/modern-light-bedroom.jpg",
+    "blurhash": "UPKd[4_N-;IA?bM{M{ozn$ofaet7ozaeoffk"
+  },
+  "project": {
+    "image": "/assets/images/heroImages/modern-living-room.jpg",
+    "blurhash": "UFNAq}IUtRM__N?H%2o#s;o#xuniRkRPtRoe"
+  },
+  "pricing": {
+    "image": "",
+    "blurhash": ""
+  },
+  "about": {
+    "image": "/assets/images/heroImages/kitchen-design.jpg",
+    "blurhash": "UaLzv:xtM{ay?wM{t7R*V?oKt7axtRxuV@t7"
+  },
+  "contact": {
+    "image": "/assets/images/heroImages/minimalist-workspace.jpg",
+    "blurhash": "UCN0rDyY3GD4};*0TLzT={s9tl.8JBRPwvNG"
+  }
+}

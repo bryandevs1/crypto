@@ -1,0 +1,54 @@
+.item-cart img {
+  border-radius: 30px;
+  height: auto; /* Allow images to maintain their aspect ratio */
+  max-width: 100%; /* Make sure images don't exceed their container width */
+}
+
+.item-cart {
+  border-radius: 10%;
+  display: inline-block; /* Ensure items are displayed side by side */
+  height: auto; /* Remove fixed height */
+  margin: 10px; /* Add margin to space out items */
+  padding: 30px; /* Add padding to space out items */
+  text-align: center; /* Center items horizontally */
+  width: 400px;
+}
+@media (max-width: 768px) {
+  .item-cart {
+    margin: 5px 0; /* Reduce vertical margin for better spacing */
+    margin-left: -45px;
+    padding: 5px; /* Reduce padding for better spacing */
+    width: 110%;
+  }
+}
+
+.bg-gold-200 {
+  background-color: none;
+}
+
+.rounded-md {
+  border-radius: 10%;
+}
+
+.art-port-cover {
+  display: block;
+  padding-bottom: 60%;
+  position: relative;
+}
+
+.art-port-cover img {
+  height: 100%;
+  object-fit: cover;
+  object-position: center;
+  position: absolute;
+  transition: 2s ease-in-out;
+  width: 100%;
+}
+
+.close-button {
+  cursor: pointer;
+  position: absolute;
+  right: 10px;
+  top: 10px;
+  z-index: 999;
+}

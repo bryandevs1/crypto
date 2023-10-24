@@ -1,0 +1,11 @@
+{
+  "name": {
+    "placeholder": "Name *"
+  },
+  "email": {
+    "placeholder": "Email *"
+  },
+  "message": {
+    "placeholder": "Hello I am Interested in... *"
+  }
+}

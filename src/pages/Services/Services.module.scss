@@ -1,0 +1,9 @@
+@import '@sass/mixins/index';
+
+.join-team {
+  margin: 10rem auto;
+
+  @include media-query('lg') {
+    margin: 20rem auto;
+  }
+}

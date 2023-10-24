@@ -1,0 +1,21 @@
+@import './typography-styles.scss';
+
+@mixin text-container {
+  align-items: center;
+  display: flex;
+  justify-content: space-between;
+  margin-top: 1rem;
+
+  @include media-query('md') {
+    margin-top: 2.4rem;
+  }
+}
+
+@mixin card-title {
+  margin: 0;
+  @include heading-styles('small');
+}
+@mixin card-category {
+  margin: 0;
+  @include body-styles('large');
+}

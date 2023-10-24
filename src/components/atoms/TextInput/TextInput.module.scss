@@ -1,0 +1,20 @@
+@import '@sass/mixins/index';
+
+.text-input {
+  @include wrapper;
+  @include remove-number-arrows;
+
+  &__field {
+    max-height: 4.7rem;
+    @include field;
+    @include focus;
+
+    &--has-error {
+      @include has-error;
+    }
+  }
+
+  &__error-msg {
+    @include error-msg;
+  }
+}

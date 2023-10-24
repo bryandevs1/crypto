@@ -1,0 +1,26 @@
+@import '@sass/mixins/index';
+
+.team-cards {
+  background-color: var(--color-tertiary);
+  flex-direction: column;
+  gap: 4rem;
+  @include flex-center;
+  @include padding-y(10rem);
+
+  @include media-query('lg') {
+    @include padding-y(18.5rem);
+  }
+
+  &__title {
+    margin: 0;
+    @include heading-styles('large');
+  }
+
+  &__wrapper {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 2.2rem;
+    justify-content: center;
+    max-width: var(--container-width);
+  }
+}

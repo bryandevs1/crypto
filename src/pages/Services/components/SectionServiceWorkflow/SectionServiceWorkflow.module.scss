@@ -1,0 +1,146 @@
+@import '@sass/mixins/index';
+
+.workflow {
+  background-color: var(--color-tertiary);
+  border-radius: 30px;
+  margin-top: 10rem;
+  padding: 6rem 2rem;
+  text-align: center;
+
+  @include media-query('md') {
+    border-radius: 70px;
+    padding: 16rem 3rem;
+  }
+  @include media-query('lg') {
+    @include padding-x(5rem);
+
+    margin-top: 15rem;
+  }
+
+  @include media-query('xl') {
+    @include padding-x(11.6rem);
+
+    margin-top: 20rem;
+  }
+
+  &__title {
+    margin: 0;
+    @include heading-styles('large');
+  }
+
+  &__description {
+    margin: 1.5rem auto 7rem;
+    max-width: 80.2rem;
+    @include body-styles('large');
+
+    @include media-query('md') {
+      margin-bottom: 10rem;
+    }
+  }
+}
+
+.workflow-steps {
+  display: grid;
+  gap: 7rem;
+}
+
+.workflow-step {
+  display: grid;
+  gap: 5.1rem;
+
+  @include media-query('md') {
+    display: flex;
+    gap: 3rem;
+  }
+
+  @include media-query('xl') {
+    gap: unset;
+    justify-content: space-between;
+  }
+
+  &:nth-child(even) {
+    flex-direction: row-reverse;
+  }
+
+  &__image {
+    border-radius: 0 72px 0 105.5px;
+    height: 30rem;
+    margin: 0 auto;
+    overflow: hidden;
+    position: relative;
+    width: 90%;
+
+    @include media-query('md') {
+      border-radius: 0 123px 0 193px;
+      height: 100%;
+      margin: unset;
+      min-width: 50%;
+      order: -1;
+      width: unset;
+    }
+    @include media-query('lg') {
+      border-radius: 0 123px 0 326.5px;
+      height: 48.5rem;
+      min-width: 45.3rem;
+    }
+  }
+}
+
+.text-side {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  margin: 0 auto;
+  max-width: 45.6rem;
+
+  @include media-query('md') {
+    margin: unset;
+  }
+
+  &__icon-container {
+    align-items: center;
+    display: flex;
+    justify-content: space-between;
+  }
+
+  &__icon {
+    max-width: 8.3rem;
+    width: 30%;
+
+    @include media-query('md') {
+      max-width: unset;
+      width: unset;
+    }
+  }
+
+  &__number {
+    color: var(--color-white-100);
+    font-family: var(--font-family-primary), sans-serif;
+    font-size: 8rem;
+    line-height: var(--line-height-heading);
+    margin: 0;
+
+    @include media-query('md') {
+      font-size: 12rem;
+    }
+  }
+
+  &__title {
+    margin: 5% 0 1.1rem;
+    @include heading-styles('medium');
+
+    @include media-query('md') {
+      margin-top: 5.8rem;
+    }
+  }
+
+  &__description {
+    margin: 0;
+    @include body-styles('large');
+  }
+
+  &__title,
+  &__description {
+    text-align: start;
+  }
+}

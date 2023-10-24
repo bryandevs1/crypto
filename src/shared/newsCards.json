@@ -1,0 +1,200 @@
+[
+  {
+    "id": 1,
+    "blogId": "blog-construction-work",
+    "imgUrl": "/assets/images/kitchen-design-one.jpg",
+    "blurhash": "UaLqFLxtM{ay?wM{t7R*aKoLozaetRxuV@t7",
+    "tag": "Kitchen Design",
+    "title": "Grandeur Victorian sets",
+    "postDate": "26 December,2022",
+    "description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Illum enim suscipit perferendis sunt corporis commodi, quasi voluptatibus maxime tenetur animi!",
+    "link": "/under-development"
+  },
+  {
+    "id": 2,
+    "blogId": "blog-design-ideas",
+    "imgUrl": "/assets/images/kitchen-design-two.jpg",
+    "blurhash": "UMJ[0C_N9wn$-;kCi]ae-oNH%MjYtSt7s:bI",
+    "tag": "Kitchen Design",
+    "title": "Low Cost Latest Invented Interior Designing Ideas.",
+    "postDate": "22 December,2022",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Id, saepe optio! Odio corrupti deleniti quaerat alias quisquam totam molestiae libero? Molestias facilis hic placeat soluta.",
+    "link": "/under-development"
+  },
+  {
+    "id": 3,
+    "blogId": "blog-construction-work-2",
+    "imgUrl": "/assets/images/kitchen-design-four.jpg",
+    "blurhash": "UYOfiLWA%M%M_NxuM|RjRPjZjFWCNHM|oJt7",
+    "tag": "Kitchen Design",
+    "title": "Let's Get Solution For Building Construction Work",
+    "postDate": "27 December,2022",
+    "description": " Interior lighting is an art form. It's about crafting a visual masterpiece through the symphony of light and shadow. Your space becomes a canvas, and we, the artists, paint with light.",
+    "link": "/under-development"
+  },
+  {
+    "id": 4,
+    "blogId": "blog-interior-solution",
+    "imgUrl": "/assets/images/kitchen-design-three.jpg",
+    "blurhash": "UDKnl5%g_NWrIUM{xuRjM}WAj[j?RkWCxuj[",
+    "tag": "Kitchen Design",
+    "title": "Best For Any Office & Business Interior Solution",
+    "postDate": "25 December,2022",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dicta quos ullam animi asperiores, eius laboriosam ipsa tempore pariatur est sequi! Fugiat quia dolorem consequuntur asperiores modi quidem dolore aliquam?",
+    "link": "/under-development"
+  },
+  {
+    "id": 5,
+    "blogId": "blog-design-ideas-2",
+    "imgUrl": "/assets/images/living-room.jpg",
+    "blurhash": "UNOzJN%gxv4m~q-;kCt68_WYIUt7-;tRoft7",
+    "tag": "Living room Design",
+    "title": "Low Cost Latest Invented Interior Designing Ideas.",
+    "postDate": "21 December,2022",
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Architecto sit perspiciatis, porro cum vitae nesciunt unde ducimus accusantium. Non perspiciatis amet nostrum fugiat eius quas fuga nobis ad nulla impedit.",
+    "link": "/under-development"
+  },
+  {
+    "id": 6,
+    "blogId": "blog-interior-solution-2",
+    "imgUrl": "/assets/images/kitchen-design-five.jpg",
+    "blurhash": "UWL|ib-nWBoz~qM{j[WBe.jYs.e-t7WXRjof",
+    "tag": "Kitchen Design",
+    "title": "Best For Any Office & Business Interior Solution",
+    "postDate": "20 December,2022",
+    "description": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Consequuntur a harum itaque libero molestias repellendus. Architecto perferendis doloribus sint doloremque delectus in. At dignissimos excepturi expedita nesciunt, nobis dolorum eius! Non ipsa obcaecati placeat quia sint blanditiis, molestiae sequi.",
+    "link": "/under-development"
+  },
+  {
+    "id": 7,
+    "blogId": "blog-interior-solution-3",
+    "imgUrl": "/assets/images/kitchen-design-three.jpg",
+    "blurhash": "UDKnl5%g_NWrIUM{xuRjM}WAj[j?RkWCxuj[",
+    "tag": "Kitchen Design",
+    "title": "Best For Any Office & Business Interior Solution",
+    "postDate": "25 December,2022",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dicta quos ullam animi asperiores, eius laboriosam ipsa tempore pariatur est sequi! Fugiat quia dolorem consequuntur asperiores modi quidem dolore aliquam?",
+    "link": "/under-development"
+  },
+  {
+    "id": 8,
+    "blogId": "blog-construction-work-3",
+    "imgUrl": "/assets/images/kitchen-design-four.jpg",
+    "blurhash": "UYOfiLWA%M%M_NxuM|RjRPjZjFWCNHM|oJt7",
+    "tag": "Kitchen Design",
+    "title": "Let's Get Solution For Building Construction Work",
+    "postDate": "27 December,2022",
+    "description": " Interior lighting is an art form. It's about crafting a visual masterpiece through the symphony of light and shadow. Your space becomes a canvas, and we, the artists, paint with light.",
+    "link": "/under-development"
+  },
+  {
+    "id": 9,
+    "blogId": "blog-construction-work-4",
+    "imgUrl": "/assets/images/kitchen-design-one.jpg",
+    "blurhash": "UaLqFLxtM{ay?wM{t7R*aKoLozaetRxuV@t7",
+    "tag": "Kitchen Design",
+    "title": "Let's Get Solution For Building Construction Work",
+    "postDate": "26 December,2022",
+    "description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Illum enim suscipit perferendis sunt corporis commodi, quasi voluptatibus maxime tenetur animi!",
+    "link": "/under-development"
+  },
+  {
+    "id": 10,
+    "blogId": "blog-design-ideas-3",
+    "imgUrl": "/assets/images/kitchen-design-two.jpg",
+    "blurhash": "UMJ[0C_N9wn$-;kCi]ae-oNH%MjYtSt7s:bI",
+    "tag": "Kitchen Design",
+    "title": "Low Cost Latest Invented Interior Designing Ideas.",
+    "postDate": "22 December,2022",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Id, saepe optio! Odio corrupti deleniti quaerat alias quisquam totam molestiae libero? Molestias facilis hic placeat soluta.",
+    "link": "/under-development"
+  },
+  {
+    "id": 11,
+    "blogId": "blog-interior-solution-4",
+    "imgUrl": "/assets/images/kitchen-design-five.jpg",
+    "blurhash": "UWL|ib-nWBoz~qM{j[WBe.jYs.e-t7WXRjof",
+    "tag": "Kitchen Design",
+    "title": "Best For Any Office & Business Interior Solution",
+    "postDate": "20 December,2022",
+    "description": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Consequuntur a harum itaque libero molestias repellendus. Architecto perferendis doloribus sint doloremque delectus in. At dignissimos excepturi expedita nesciunt, nobis dolorum eius! Non ipsa obcaecati placeat quia sint blanditiis, molestiae sequi.",
+    "link": "/under-development"
+  },
+  {
+    "id": 12,
+    "blogId": "blog-design-ideas-4",
+    "imgUrl": "/assets/images/living-room.jpg",
+    "blurhash": "UNOzJN%gxv4m~q-;kCt68_WYIUt7-;tRoft7",
+    "tag": "Living room Design",
+    "title": "Low Cost Latest Invented Interior Designing Ideas.",
+    "postDate": "21 December,2022",
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Architecto sit perspiciatis, porro cum vitae nesciunt unde ducimus accusantium. Non perspiciatis amet nostrum fugiat eius quas fuga nobis ad nulla impedit.",
+    "link": "/under-development"
+  },
+  {
+    "id": 13,
+    "blogId": "blog-design-ideas-5",
+    "imgUrl": "/assets/images/living-room.jpg",
+    "blurhash": "UNOzJN%gxv4m~q-;kCt68_WYIUt7-;tRoft7",
+    "tag": "Living room Design",
+    "title": "Low Cost Latest Invented Interior Designing Ideas.",
+    "postDate": "21 December,2022",
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Architecto sit perspiciatis, porro cum vitae nesciunt unde ducimus accusantium. Non perspiciatis amet nostrum fugiat eius quas fuga nobis ad nulla impedit.",
+    "link": "/under-development"
+  },
+  {
+    "id": 14,
+    "blogId": "blog-design-ideas-6",
+    "imgUrl": "/assets/images/kitchen-design-two.jpg",
+    "blurhash": "UMJ[0C_N9wn$-;kCi]ae-oNH%MjYtSt7s:bI",
+    "tag": "Kitchen Design",
+    "title": "Low Cost Latest Invented Interior Designing Ideas.",
+    "postDate": "22 December,2022",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Id, saepe optio! Odio corrupti deleniti quaerat alias quisquam totam molestiae libero? Molestias facilis hic placeat soluta.",
+    "link": "/under-development"
+  },
+  {
+    "id": 15,
+    "blogId": "blog-interior-solution-5",
+    "imgUrl": "/assets/images/kitchen-design-five.jpg",
+    "blurhash": "UWL|ib-nWBoz~qM{j[WBe.jYs.e-t7WXRjof",
+    "tag": "Kitchen Design",
+    "title": "Best For Any Office & Business Interior Solution",
+    "postDate": "20 December,2022",
+    "description": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Consequuntur a harum itaque libero molestias repellendus. Architecto perferendis doloribus sint doloremque delectus in. At dignissimos excepturi expedita nesciunt, nobis dolorum eius! Non ipsa obcaecati placeat quia sint blanditiis, molestiae sequi.",
+    "link": "/under-development"
+  },
+  {
+    "id": 16,
+    "blogId": "blog-construction-work-5",
+    "imgUrl": "/assets/images/kitchen-design-four.jpg",
+    "blurhash": "UYOfiLWA%M%M_NxuM|RjRPjZjFWCNHM|oJt7",
+    "tag": "Kitchen Design",
+    "title": "Let's Get Solution For Building Construction Work",
+    "postDate": "27 December,2022",
+    "description": " Interior lighting is an art form. It's about crafting a visual masterpiece through the symphony of light and shadow. Your space becomes a canvas, and we, the artists, paint with light.",
+    "link": "/under-development"
+  },
+  {
+    "id": 17,
+    "blogId": "blog-construction-work-6",
+    "imgUrl": "/assets/images/kitchen-design-one.jpg",
+    "blurhash": "UaLqFLxtM{ay?wM{t7R*aKoLozaetRxuV@t7",
+    "tag": "Kitchen Design",
+    "title": "Let's Get Solution For Building Construction Work",
+    "postDate": "26 December,2022",
+    "description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Illum enim suscipit perferendis sunt corporis commodi, quasi voluptatibus maxime tenetur animi!",
+    "link": "/under-development"
+  },
+  {
+    "id": 18,
+    "blogId": "blog-interior-solution-6",
+    "imgUrl": "/assets/images/kitchen-design-three.jpg",
+    "blurhash": "UDKnl5%g_NWrIUM{xuRjM}WAj[j?RkWCxuj[",
+    "tag": "Kitchen Design",
+    "title": "Best For Any Office & Business Interior Solution",
+    "postDate": "25 December,2022",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dicta quos ullam animi asperiores, eius laboriosam ipsa tempore pariatur est sequi! Fugiat quia dolorem consequuntur asperiores modi quidem dolore aliquam?",
+    "link": "/under-development"
+  }
+]

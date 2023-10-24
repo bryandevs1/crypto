@@ -1,0 +1,17 @@
+@import '@sass/mixins/index';
+
+.section__message {
+  margin: 0 auto;
+  max-width: 79.6rem;
+  @include padding-y($top: 10rem, $bottom: 10rem);
+
+  @include media-query('md') {
+    @include padding-y($top: 21.3rem, $bottom: 13.5rem);
+  }
+
+  &__title {
+    margin: 0 0 7.7rem;
+    text-align: center;
+    @include heading-styles('large');
+  }
+}

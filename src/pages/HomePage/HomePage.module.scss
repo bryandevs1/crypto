@@ -1,0 +1,17 @@
+@import '@sass/mixins/index';
+
+.join-team {
+  margin: 10rem auto;
+
+  @include media-query('lg') {
+    margin: 20.2rem 0 13.5rem;
+  }
+}
+
+.section-achievments {
+  margin: 10rem auto;
+
+  @include media-query('lg') {
+    margin: 15rem auto 20rem;
+  }
+}

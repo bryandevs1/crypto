@@ -1,0 +1,62 @@
+@import '@sass/mixins/index';
+
+.intro {
+  display: grid;
+  gap: 2.7rem;
+
+  &__title {
+    margin: 0;
+    @include heading-styles('large');
+  }
+}
+
+.latest-card {
+  border: 1px solid var(--color-white-910);
+  border-radius: 30px;
+  display: grid;
+  padding: 2.2rem;
+
+  @include media-query('lg') {
+    border-radius: 62px;
+    gap: 6.5rem;
+    grid-template-columns: 47% auto;
+  }
+
+  &__image-container {
+    border-radius: 30px;
+    height: 30rem;
+    overflow: hidden;
+    position: relative;
+    width: 100%;
+
+    @include media-query('lg') {
+      border-radius: 50px;
+      height: 100%;
+    }
+  }
+
+  &__text-side {
+    padding: 5.2rem 0 2rem;
+
+    @include media-query('lg') {
+      padding: 5.2rem 3.4rem 5.2rem 0;
+    }
+
+    &__title {
+      margin: 0;
+      @include heading-styles('small');
+    }
+
+    &__description {
+      margin: 2.2rem 0 4.1rem;
+
+      @include body-styles('large');
+    }
+
+    &__button-container {
+      align-items: center;
+      display: flex;
+      justify-content: space-between;
+    }
+  }
+}

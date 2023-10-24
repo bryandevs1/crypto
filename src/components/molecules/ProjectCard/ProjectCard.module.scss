@@ -1,0 +1,13 @@
+@import '@sass/mixins/index';
+
+.project-card__bottom-container {
+  @include text-container;
+}
+
+.project-card__title {
+  @include card-title;
+}
+
+.project-card__category {
+  @include card-category;
+}

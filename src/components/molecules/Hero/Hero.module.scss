@@ -1,0 +1,70 @@
+@import '@sass/mixins/index';
+
+.hero {
+  align-items: end;
+  display: flex;
+  height: 20rem;
+  justify-content: center;
+  margin-bottom: 15rem;
+  position: relative;
+  text-align: center;
+  width: 100%;
+
+  @include media-query('md') {
+    height: 35.6rem;
+    margin-bottom: 20rem;
+  }
+
+  &__img {
+    height: 100%;
+    object-fit: cover;
+    position: absolute;
+    width: 100%;
+    z-index: -1;
+  }
+
+  &__title-container {
+    background-color: var(--color-white-100);
+    border-radius: 37px 37px 0 0;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+
+    @include padding-x(4rem);
+    @include padding-y(2rem);
+    @include media-query('md') {
+      min-width: 30rem;
+      @include padding-y(4.1rem);
+    }
+    @include media-query('lg') {
+      min-width: 50.3rem;
+    }
+  }
+
+  &__description {
+    @include body-styles('large');
+  }
+
+  &__title {
+    margin: 0;
+    @include heading-styles('large');
+  }
+
+  &__backwards-link {
+    @include reset-link-style;
+  }
+
+  &__current-page,
+  &__title {
+    cursor: default;
+  }
+}
+
+.blurhash {
+  height: 100% !important;
+  left: 0;
+  position: absolute !important;
+  top: 0;
+  width: 100% !important;
+  z-index: -1;
+}

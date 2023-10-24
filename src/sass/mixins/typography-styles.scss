@@ -1,0 +1,64 @@
+$heading-sizes: (
+  'large': (
+    'sm': 3rem,
+    'md': 4rem,
+    'lg': 5rem,
+  ),
+  'medium': (
+    'sm': 2.5rem,
+    'md': 3rem,
+    'lg': 3.5rem,
+  ),
+  'small': (
+    'sm': 2.2rem,
+    'md': 2.5rem,
+  ),
+);
+
+$body-sizes: (
+  'large': (
+    'sm': 2rem,
+    'md': 2.2rem,
+  ),
+  'medium': (
+    'sm': 1.8rem,
+    'md': 2rem,
+  ),
+  'small': (
+    'sm': 1.6rem,
+    'md': 1.8rem,
+  ),
+);
+
+@mixin map-sizes($text-sizes, $type) {
+  @each $name, $sizes in $text-sizes {
+    @if ($name == $type) {
+      font-size: map-get($sizes, 'sm');
+      @each $key, $size in $sizes {
+        @include media-query($key) {
+          font-size: $size;
+        }
+      }
+    }
+  }
+}
+
+@mixin heading-styles(
+  $type,
+  $weight: 400,
+  $color: var(--color-secondary),
+  $line-height: var(--line-height-heading)
+) {
+  color: $color;
+  font-family: var(--font-family-primary);
+  font-weight: $weight;
+  line-height: $line-height;
+  @include map-sizes($heading-sizes, $type);
+}
+
+@mixin body-styles($type, $color: var(--color-base), $weight: null) {
+  color: $color;
+  font-family: var(--font-family-secondary);
+  font-weight: $weight;
+  @include map-sizes($body-sizes, $type);
+}

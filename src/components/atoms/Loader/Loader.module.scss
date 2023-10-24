@@ -1,0 +1,54 @@
+@import '@sass/mixins/index';
+
+.loader-wrapper {
+  width: 100%;
+
+  @include flex-center;
+}
+
+.loader,
+.loader::before,
+.loader::after {
+  animation: bbl-fade-in-out 1.8s infinite ease-in-out;
+  animation-fill-mode: both;
+  border-radius: 50%;
+  height: 2.5em;
+  width: 2.5em;
+}
+
+.loader {
+  animation-delay: -0.16s;
+  color: var(--color-primary);
+  font-size: 7px;
+  position: relative;
+  text-indent: -9999em;
+  transform: translateZ(0);
+}
+
+.loader::before,
+.loader::after {
+  content: '';
+  position: absolute;
+  top: 0;
+}
+
+.loader::before {
+  animation-delay: -0.32s;
+  left: -3.5em;
+}
+
+.loader::after {
+  left: 3.5em;
+}
+
+@keyframes bbl-fade-in-out {
+  0%,
+  80%,
+  100% {
+    box-shadow: 0 2.5em 0 -1.3em;
+  }
+
+  40% {
+    box-shadow: 0 2.5em 0 0;
+  }
+}

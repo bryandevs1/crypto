@@ -1,0 +1,32 @@
+@import '@sass/mixins/index';
+
+.project-details {
+  display: grid;
+  gap: 3rem;
+  margin-bottom: 10rem;
+
+  @include media-query('lg') {
+    align-items: center;
+    display: flex;
+    gap: 4.2rem;
+    justify-content: space-between;
+  }
+
+  &__description {
+    max-width: 65.8rem;
+
+    &__title {
+      margin: 0 0 1.1rem;
+
+      @include heading-styles('large');
+    }
+
+    &__text {
+      margin: 0;
+      vertical-align: bottom;
+      white-space: pre-line;
+
+      @include body-styles('large');
+    }
+  }
+}

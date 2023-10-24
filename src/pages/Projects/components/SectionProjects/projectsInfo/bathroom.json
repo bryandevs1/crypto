@@ -1,0 +1,501 @@
+{
+  "category": "bathroom",
+  "projectsInfo": [
+    {
+      "id": 1,
+      "imgUrl": "/assets/images/projectsImages/bathroom/modern-minimal-bathroom.jpg",
+      "blurhash": "UGE:3un$4nRj~pIUM|RjDjkCM{t8D%-=oeof",
+      "title": "Modern Minimal Bathroom",
+      "serviceCategory": "Decor",
+      "projectId": "bathroom-project1",
+      "details": [
+        {
+          "title": "Client",
+          "text": "Your client name"
+        },
+        {
+          "title": "Category",
+          "text": "Interior"
+        },
+        {
+          "title": "Tags",
+          "text": "interior, Home"
+        },
+        {
+          "title": "Date",
+          "text": "12,05, 2023"
+        },
+        {
+          "title": "Link",
+          "text": "Link example.com"
+        }
+      ],
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquamsem vitae turpis dignissim maximus. Aliquam sollicitudin tellumassa, vbel maximus purus posuere in. Dojrices gravida dignissim. Praesent at nibh in mi fringilla mattis. Phasellus ut dolor odio. Aenean in the ipsum vel lectus bibendum commodo. \n\nIn nec sem suscipit, convallis leo vitae, lacinia nibh. Cras amet tellus lectus. Vivamus ipsum nunc, mattis quis nibh id, pellentesque arcu. Donec a pellentesque Cras erat enim, gravida non ante vitae,elequis convallis elit, in viverra felis. Donec ultrices tellus vitae iaculisvd porta. Proin tincidunt ligula id purus porttitor."
+    },
+    {
+      "id": 2,
+      "imgUrl": "/assets/images/projectsImages/bathroom/modern-minimal-bathroom2.jpg",
+      "blurhash": "UAK1wO={00%g4.?w9GsmDhH??aWW.9D*IV-;",
+      "title": "Modern Minimal Bathroom",
+      "serviceCategory": "Decor",
+      "projectId": "bathroom-project2",
+      "details": [
+        {
+          "title": "Client",
+          "text": "Your client name"
+        },
+        {
+          "title": "Category",
+          "text": "Interior"
+        },
+        {
+          "title": "Tags",
+          "text": "interior, Home"
+        },
+        {
+          "title": "Date",
+          "text": "02,12, 2022"
+        },
+        {
+          "title": "Link",
+          "text": "Link example.com"
+        }
+      ],
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Veniam aliquam soluta porro obcaecati nesciunt. Dolore suscipit voluptas, minus at doloribus eum vero pariatur iste explicabo nam deserunt? Pariatur, amet itaque incidunt dolore, quisquam nisi nemo illo asperiores odio eum officiis. \n\nLorem ipsum dolor sit amet consectetur adipisicing elit. Veniam aliquam soluta porro obcaecati nesciunt. Dolore suscipit voluptas, minus at doloribus eum vero pariatur iste explicabo nam deserunt? Pariatur, amet itaque incidunt dolore, quisquam nisi nemo illo asperiores odio eum officiis."
+    },
+    {
+      "id": 3,
+      "imgUrl": "/assets/images/projectsImages/bathroom/modern-minimal-bathroom3.jpg",
+      "blurhash": "UHGu:p_NtRoyDitS-;WB00D$M{oftSM{ITWB",
+      "title": "Modern Minimal Bathroom",
+      "serviceCategory": "Decor",
+      "projectId": "bathroom-project3",
+      "details": [
+        {
+          "title": "Client",
+          "text": "Your client name"
+        },
+        {
+          "title": "Category",
+          "text": "Interior"
+        },
+        {
+          "title": "Tags",
+          "text": "interior, Home"
+        },
+        {
+          "title": "Date",
+          "text": "16,08, 2022"
+        },
+        {
+          "title": "Link",
+          "text": "Link example.com"
+        }
+      ],
+      "description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Voluptate vel recusandae accusantium amet illum nobis, minus, esse reiciendis placeat neque ad in sint sapiente commodi! Earum, voluptas rem accusamus consequatur nobis aut iusto dolorum nihil. Nulla iste cumque et cum? \n\nLorem ipsum dolor, sit amet consectetur adipisicing elit. Voluptate vel recusandae accusantium amet illum nobis, minus, esse reiciendis placeat neque ad in sint sapiente commodi! Earum, voluptas rem accusamus consequatur nobis aut iusto dolorum nihil. Nulla iste cumque et cum?"
+    },
+    {
+      "id": 4,
+      "imgUrl": "/assets/images/projectsImages/bathroom/classic-minimal-bathroom.jpg",
+      "blurhash": "U4I;#69GD*-T~A?bxZ^*ROD%%MaJ_3?bROxu",
+      "title": "Classic Bathroom",
+      "serviceCategory": "Decor",
+      "projectId": "bathroom-project4",
+      "details": [
+        {
+          "title": "Client",
+          "text": "Your client name"
+        },
+        {
+          "title": "Category",
+          "text": "Interior"
+        },
+        {
+          "title": "Tags",
+          "text": "interior, Home"
+        },
+        {
+          "title": "Date",
+          "text": "07,10, 2022"
+        },
+        {
+          "title": "Link",
+          "text": "Link example.com"
+        }
+      ],
+      "description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Dolores assumenda voluptatem quae porro labore facere dolorem corrupti blanditiis eius distinctio consectetur minus veniam sunt, cum repellat asperiores placeat, quisquam recusandae! \n\nLorem ipsum dolor, sit amet consectetur adipisicing elit. Asperiores quae odit, ratione, delectus inventore iste quod ipsam dolores sequi porro vel est reprehenderit molestiae. Nobis pariatur voluptate, fuga dignissimos officiis ullam, modi harum dolore incidunt asperiores quos illo. Fuga harum dolore neque eum adipisci tenetur accusamus veniam consequuntur a suscipit!"
+    },
+    {
+      "id": 5,
+      "imgUrl": "/assets/images/projectsImages/bathroom/minimal-bathroom.jpg",
+      "blurhash": "UjL4ytM{WAt6~qofWAt7t6ofWBRjjsWBWBWB",
+      "title": "Minimal Bathroom",
+      "serviceCategory": "Decor",
+      "projectId": "ModernKitchen5",
+      "details": [
+        {
+          "title": "Client",
+          "text": "Your client name"
+        },
+        {
+          "title": "Category",
+          "text": "Interior"
+        },
+        {
+          "title": "Tags",
+          "text": "interior, Home"
+        },
+        {
+          "title": "Date",
+          "text": "30,05, 2022"
+        },
+        {
+          "title": "Link",
+          "text": "Link example.com"
+        }
+      ],
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Impedit quasi adipisci qui sit culpa delectus excepturi pariatur corporis! Ipsa provident eius est eum, laborum eligendi aspernatur quis iure eveniet, ullam incidunt ut doloribus totam debitis voluptatibus eaque itaque velit, tempore nihil nulla repudiandae. Repellendus, et possimus alias aperiam nostrum consequuntur reprehenderit provident suscipit voluptates officiis corporis corrupti autem ipsa architecto tempora quia natus a modi, in excepturi sequi id inventore, deleniti esse? Quaerat sit ut unde saepe hic accusamus sequi."
+    },
+    {
+      "id": 6,
+      "imgUrl": "/assets/images/projectsImages/bathroom/modern-bathroom.jpg",
+      "blurhash": "UKLg;MyY?Gxc_NxaE1n$RjROxuWB%MWqRjsm",
+      "title": "Modern Bathroom",
+      "serviceCategory": "Decor",
+      "projectId": "bathroom-project6",
+      "details": [
+        {
+          "title": "Client",
+          "text": "Your client name"
+        },
+        {
+          "title": "Category",
+          "text": "Interior"
+        },
+        {
+          "title": "Tags",
+          "text": "interior, Home"
+        },
+        {
+          "title": "Date",
+          "text": "19,01, 2023"
+        },
+        {
+          "title": "Link",
+          "text": "Link example.com"
+        }
+      ],
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Minus assumenda, harum iure, quos cupiditate magni, commodi dolore modi atque maxime beatae ab! Natus quam, sit eum inventore asperiores repellat maxime, dolore laborum omnis dolorem officia dolores aut, quisquam non beatae. \n\nLorem ipsum dolor sit amet consectetur adipisicing elit. Minus assumenda, harum iure, quos cupiditate magni, commodi dolore modi atque maxime beatae ab! Natus quam, sit eum inventore asperiores repellat maxime, dolore laborum omnis dolorem officia dolores aut, quisquam non beatae."
+    },
+    {
+      "id": 7,
+      "imgUrl": "/assets/images/projectsImages/bathroom/minimal-bathroom2.jpg",
+      "blurhash": "UBL4mJxtr=01~q?GxtE1DjIUWT-=t3t7ogWA",
+      "title": "Modern Bathroom",
+      "serviceCategory": "Decor",
+      "projectId": "bathroom-project7",
+      "details": [
+        {
+          "title": "Client",
+          "text": "Your client name"
+        },
+        {
+          "title": "Category",
+          "text": "Interior"
+        },
+        {
+          "title": "Tags",
+          "text": "interior, Home"
+        },
+        {
+          "title": "Date",
+          "text": "01,08, 2022"
+        },
+        {
+          "title": "Link",
+          "text": "Link example.com"
+        }
+      ],
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Impedit, tempore dolorum nam rerum quasi soluta voluptates natus non magni at? Laudantium nemo ullam culpa et! Veniam nisi officia quidem vel! Molestiae dolores nemo, ad vel eveniet eligendi porro tenetur provident. \n\nLorem ipsum dolor sit, amet consectetur adipisicing elit. Omnis, eligendi fugiat? Doloremque corrupti magnam aliquam sequi totam accusantium quo ut, assumenda praesentium aspernatur et soluta voluptate aut modi odio nostrum?"
+    },
+    {
+      "id": 8,
+      "imgUrl": "/assets/images/projectsImages/bathroom/classic-bathroom.jpg",
+      "blurhash": "UGI}x3Rk${E1?wD*-n?G0O9aawWB03Rk?GkC",
+      "title": "Classic Bathroom",
+      "serviceCategory": "Decor",
+      "projectId": "bathroom-project8",
+      "details": [
+        {
+          "title": "Client",
+          "text": "Your client name"
+        },
+        {
+          "title": "Category",
+          "text": "Interior"
+        },
+        {
+          "title": "Tags",
+          "text": "interior, Home"
+        },
+        {
+          "title": "Date",
+          "text": "20,03, 2023"
+        },
+        {
+          "title": "Link",
+          "text": "Link example.com"
+        }
+      ],
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quidem, cupiditate? Maiores autem, ad in cupiditate minima alias praesentium consectetur dolorum. \n\nLorem ipsum dolor sit amet consectetur adipisicing elit. Soluta nostrum nihil repudiandae nam libero doloremque. Sint voluptates aliquam assumenda optio nam, porro fuga a? Architecto reiciendis eligendi laboriosam, quisquam iste inventore? Incidunt magnam nihil odio magni distinctio numquam, harum voluptatum quod accusamus? Facilis sapiente sunt delectus eum modi veritatis expedita necessitatibus corporis ea officia? Repellendus corporis necessitatibus porro molestiae ipsa!"
+    },
+    {
+      "id": 9,
+      "imgUrl": "/assets/images/projectsImages/bathroom/classic-minimal-bathroom.jpg",
+      "blurhash": "U4I;#69GD*-T~A?bxZ^*ROD%%MaJ_3?bROxu",
+      "title": "Classic Bathroom",
+      "serviceCategory": "Decor",
+      "projectId": "bathroom-project4",
+      "details": [
+        {
+          "title": "Client",
+          "text": "Your client name"
+        },
+        {
+          "title": "Category",
+          "text": "Interior"
+        },
+        {
+          "title": "Tags",
+          "text": "interior, Home"
+        },
+        {
+          "title": "Date",
+          "text": "07,10, 2022"
+        },
+        {
+          "title": "Link",
+          "text": "Link example.com"
+        }
+      ],
+      "description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Dolores assumenda voluptatem quae porro labore facere dolorem corrupti blanditiis eius distinctio consectetur minus veniam sunt, cum repellat asperiores placeat, quisquam recusandae! \n\nLorem ipsum dolor, sit amet consectetur adipisicing elit. Asperiores quae odit, ratione, delectus inventore iste quod ipsam dolores sequi porro vel est reprehenderit molestiae. Nobis pariatur voluptate, fuga dignissimos officiis ullam, modi harum dolore incidunt asperiores quos illo. Fuga harum dolore neque eum adipisci tenetur accusamus veniam consequuntur a suscipit!"
+    },
+    {
+      "id": 10,
+      "imgUrl": "/assets/images/projectsImages/bathroom/classic-bathroom.jpg",
+      "blurhash": "UGI}x3Rk${E1?wD*-n?G0O9aawWB03Rk?GkC",
+      "title": "Classic Bathroom",
+      "serviceCategory": "Decor",
+      "projectId": "bathroom-project8",
+      "details": [
+        {
+          "title": "Client",
+          "text": "Your client name"
+        },
+        {
+          "title": "Category",
+          "text": "Interior"
+        },
+        {
+          "title": "Tags",
+          "text": "interior, Home"
+        },
+        {
+          "title": "Date",
+          "text": "20,03, 2023"
+        },
+        {
+          "title": "Link",
+          "text": "Link example.com"
+        }
+      ],
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quidem, cupiditate? Maiores autem, ad in cupiditate minima alias praesentium consectetur dolorum. \n\nLorem ipsum dolor sit amet consectetur adipisicing elit. Soluta nostrum nihil repudiandae nam libero doloremque. Sint voluptates aliquam assumenda optio nam, porro fuga a? Architecto reiciendis eligendi laboriosam, quisquam iste inventore? Incidunt magnam nihil odio magni distinctio numquam, harum voluptatum quod accusamus? Facilis sapiente sunt delectus eum modi veritatis expedita necessitatibus corporis ea officia? Repellendus corporis necessitatibus porro molestiae ipsa!"
+    },
+    {
+      "id": 11,
+      "imgUrl": "/assets/images/projectsImages/bathroom/minimal-bathroom2.jpg",
+      "blurhash": "UBL4mJxtr=01~q?GxtE1DjIUWT-=t3t7ogWA",
+      "title": "Modern Bathroom",
+      "serviceCategory": "Decor",
+      "projectId": "bathroom-project7",
+      "details": [
+        {
+          "title": "Client",
+          "text": "Your client name"
+        },
+        {
+          "title": "Category",
+          "text": "Interior"
+        },
+        {
+          "title": "Tags",
+          "text": "interior, Home"
+        },
+        {
+          "title": "Date",
+          "text": "01,08, 2022"
+        },
+        {
+          "title": "Link",
+          "text": "Link example.com"
+        }
+      ],
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Impedit, tempore dolorum nam rerum quasi soluta voluptates natus non magni at? Laudantium nemo ullam culpa et! Veniam nisi officia quidem vel! Molestiae dolores nemo, ad vel eveniet eligendi porro tenetur provident. \n\nLorem ipsum dolor sit, amet consectetur adipisicing elit. Omnis, eligendi fugiat? Doloremque corrupti magnam aliquam sequi totam accusantium quo ut, assumenda praesentium aspernatur et soluta voluptate aut modi odio nostrum?"
+    },
+    {
+      "id": 12,
+      "imgUrl": "/assets/images/projectsImages/bathroom/modern-minimal-bathroom.jpg",
+      "blurhash": "UGE:3un$4nRj~pIUM|RjDjkCM{t8D%-=oeof",
+      "title": "Modern Minimal Bathroom",
+      "serviceCategory": "Decor",
+      "projectId": "bathroom-project1",
+      "details": [
+        {
+          "title": "Client",
+          "text": "Your client name"
+        },
+        {
+          "title": "Category",
+          "text": "Interior"
+        },
+        {
+          "title": "Tags",
+          "text": "interior, Home"
+        },
+        {
+          "title": "Date",
+          "text": "12,05, 2023"
+        },
+        {
+          "title": "Link",
+          "text": "Link example.com"
+        }
+      ],
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquamsem vitae turpis dignissim maximus. Aliquam sollicitudin tellumassa, vbel maximus purus posuere in. Dojrices gravida dignissim. Praesent at nibh in mi fringilla mattis. Phasellus ut dolor odio. Aenean in the ipsum vel lectus bibendum commodo. \n\nIn nec sem suscipit, convallis leo vitae, lacinia nibh. Cras amet tellus lectus. Vivamus ipsum nunc, mattis quis nibh id, pellentesque arcu. Donec a pellentesque Cras erat enim, gravida non ante vitae,elequis convallis elit, in viverra felis. Donec ultrices tellus vitae iaculisvd porta. Proin tincidunt ligula id purus porttitor."
+    },
+    {
+      "id": 13,
+      "imgUrl": "/assets/images/projectsImages/bathroom/minimal-bathroom.jpg",
+      "blurhash": "UjL4ytM{WAt6~qofWAt7t6ofWBRjjsWBWBWB",
+      "title": "Minimal Bathroom",
+      "serviceCategory": "Decor",
+      "projectId": "ModernKitchen5",
+      "details": [
+        {
+          "title": "Client",
+          "text": "Your client name"
+        },
+        {
+          "title": "Category",
+          "text": "Interior"
+        },
+        {
+          "title": "Tags",
+          "text": "interior, Home"
+        },
+        {
+          "title": "Date",
+          "text": "30,05, 2022"
+        },
+        {
+          "title": "Link",
+          "text": "Link example.com"
+        }
+      ],
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Impedit quasi adipisci qui sit culpa delectus excepturi pariatur corporis! Ipsa provident eius est eum, laborum eligendi aspernatur quis iure eveniet, ullam incidunt ut doloribus totam debitis voluptatibus eaque itaque velit, tempore nihil nulla repudiandae. Repellendus, et possimus alias aperiam nostrum consequuntur reprehenderit provident suscipit voluptates officiis corporis corrupti autem ipsa architecto tempora quia natus a modi, in excepturi sequi id inventore, deleniti esse? Quaerat sit ut unde saepe hic accusamus sequi."
+    },
+    {
+      "id": 14,
+      "imgUrl": "/assets/images/projectsImages/bathroom/modern-minimal-bathroom3.jpg",
+      "blurhash": "UHGu:p_NtRoyDitS-;WB00D$M{oftSM{ITWB",
+      "title": "Modern Minimal Bathroom",
+      "serviceCategory": "Decor",
+      "projectId": "bathroom-project3",
+      "details": [
+        {
+          "title": "Client",
+          "text": "Your client name"
+        },
+        {
+          "title": "Category",
+          "text": "Interior"
+        },
+        {
+          "title": "Tags",
+          "text": "interior, Home"
+        },
+        {
+          "title": "Date",
+          "text": "16,08, 2022"
+        },
+        {
+          "title": "Link",
+          "text": "Link example.com"
+        }
+      ],
+      "description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Voluptate vel recusandae accusantium amet illum nobis, minus, esse reiciendis placeat neque ad in sint sapiente commodi! Earum, voluptas rem accusamus consequatur nobis aut iusto dolorum nihil. Nulla iste cumque et cum? \n\nLorem ipsum dolor, sit amet consectetur adipisicing elit. Voluptate vel recusandae accusantium amet illum nobis, minus, esse reiciendis placeat neque ad in sint sapiente commodi! Earum, voluptas rem accusamus consequatur nobis aut iusto dolorum nihil. Nulla iste cumque et cum?"
+    },
+    {
+      "id": 15,
+      "imgUrl": "/assets/images/projectsImages/bathroom/modern-bathroom.jpg",
+      "blurhash": "UKLg;MyY?Gxc_NxaE1n$RjROxuWB%MWqRjsm",
+      "title": "Modern Bathroom",
+      "serviceCategory": "Decor",
+      "projectId": "bathroom-project6",
+      "details": [
+        {
+          "title": "Client",
+          "text": "Your client name"
+        },
+        {
+          "title": "Category",
+          "text": "Interior"
+        },
+        {
+          "title": "Tags",
+          "text": "interior, Home"
+        },
+        {
+          "title": "Date",
+          "text": "19,01, 2023"
+        },
+        {
+          "title": "Link",
+          "text": "Link example.com"
+        }
+      ],
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Minus assumenda, harum iure, quos cupiditate magni, commodi dolore modi atque maxime beatae ab! Natus quam, sit eum inventore asperiores repellat maxime, dolore laborum omnis dolorem officia dolores aut, quisquam non beatae. \n\nLorem ipsum dolor sit amet consectetur adipisicing elit. Minus assumenda, harum iure, quos cupiditate magni, commodi dolore modi atque maxime beatae ab! Natus quam, sit eum inventore asperiores repellat maxime, dolore laborum omnis dolorem officia dolores aut, quisquam non beatae."
+    },
+    {
+      "id": 16,
+      "imgUrl": "/assets/images/projectsImages/bathroom/modern-minimal-bathroom2.jpg",
+      "blurhash": "UAK1wO={00%g4.?w9GsmDhH??aWW.9D*IV-;",
+      "title": "Modern Minimal Bathroom",
+      "serviceCategory": "Decor",
+      "projectId": "bathroom-project2",
+      "details": [
+        {
+          "title": "Client",
+          "text": "Your client name"
+        },
+        {
+          "title": "Category",
+          "text": "Interior"
+        },
+        {
+          "title": "Tags",
+          "text": "interior, Home"
+        },
+        {
+          "title": "Date",
+          "text": "02,12, 2022"
+        },
+        {
+          "title": "Link",
+          "text": "Link example.com"
+        }
+      ],
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Veniam aliquam soluta porro obcaecati nesciunt. Dolore suscipit voluptas, minus at doloribus eum vero pariatur iste explicabo nam deserunt? Pariatur, amet itaque incidunt dolore, quisquam nisi nemo illo asperiores odio eum officiis. \n\nLorem ipsum dolor sit amet consectetur adipisicing elit. Veniam aliquam soluta porro obcaecati nesciunt. Dolore suscipit voluptas, minus at doloribus eum vero pariatur iste explicabo nam deserunt? Pariatur, amet itaque incidunt dolore, quisquam nisi nemo illo asperiores odio eum officiis."
+    }
+  ]
+}

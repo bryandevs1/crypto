@@ -1,0 +1,13 @@
+@import '@sass/mixins/index';
+
+.header {
+  align-items: center;
+  display: flex;
+  justify-content: space-between;
+
+  @include padding-y(2rem);
+
+  @include media-query('md') {
+    @include padding-y(4.5rem);
+  }
+}

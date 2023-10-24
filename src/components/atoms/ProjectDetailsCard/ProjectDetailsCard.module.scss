@@ -1,0 +1,52 @@
+@import '@sass/mixins/index';
+
+.project-details__list-wrapper {
+  background-color: var(--color-tertiary);
+  border-radius: 30px;
+  padding: 2rem;
+
+  @include media-query('md') {
+    border-radius: 70px;
+    max-width: 60%;
+    min-width: 40rem;
+    padding: 5.5rem 3.5rem;
+  }
+  @include media-query('xl') {
+    max-width: unset;
+    padding: 5.5rem 8.4rem;
+  }
+}
+
+.project-details__list {
+  display: grid;
+  gap: 3rem;
+  list-style: none;
+  margin: 0 auto;
+  max-width: 32.2rem;
+  padding: 0;
+}
+
+.project-details__list-item {
+  display: flex;
+  gap: 2rem;
+
+  @include media-query('md') {
+    gap: 5rem;
+  }
+
+  &__title {
+    font-family: var(--font-family-primary);
+    font-size: 2.2rem;
+    font-weight: 400;
+    min-width: 9.8rem;
+  }
+
+  &__text {
+    @include body-styles('large');
+  }
+
+  &__text,
+  &__title {
+    margin: 0;
+  }
+}

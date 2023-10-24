@@ -1,0 +1,44 @@
+@import '@sass/mixins/index';
+
+$max-width: 65.5rem;
+
+.service-intro {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  gap: 5rem;
+
+  @include media-query('xl') {
+    align-items: start;
+    flex-direction: row;
+    gap: 9.7rem;
+  }
+
+  &__title {
+    @include heading-styles('large');
+  }
+
+  &__text {
+    font-size: 2rem;
+    letter-spacing: 0.01rem;
+    vertical-align: bottom;
+    white-space: pre-line;
+
+    @include media-query('md') {
+      font-size: 2.5rem;
+      max-width: 65.5rem;
+    }
+  }
+
+  &__highlighted-text {
+    color: var(--color-primary);
+    display: block;
+    margin-bottom: 2.8rem;
+  }
+
+  &__text,
+  &__title {
+    margin: 0;
+    max-width: $max-width;
+  }
+}

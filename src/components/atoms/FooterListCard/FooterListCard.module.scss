@@ -1,0 +1,75 @@
+@import '@sass/mixins/index';
+
+.page-links {
+  &__button {
+    background-color: unset;
+    border: unset;
+    max-width: 20rem;
+    padding: 0;
+    width: 100%;
+
+    @include media-query('md') {
+      cursor: default;
+      max-width: unset;
+    }
+  }
+
+  &__title {
+    align-items: center;
+    display: flex;
+    justify-content: space-between;
+    margin: 1rem 0;
+
+    @include heading-styles('small');
+
+    @include media-query('md') {
+      margin: 0 0 1.8rem;
+    }
+    @include media-query('lg') {
+      margin: 0 0 3.4rem;
+    }
+  }
+
+  &__chevron-icon {
+    transform: rotate(0);
+    transition: 0.25s transform ease;
+    @include media-query('md') {
+      display: none;
+    }
+
+    &--expanded {
+      transform: rotate(90deg);
+    }
+  }
+
+  &__list {
+    display: grid;
+    gap: 2rem;
+    max-height: 0;
+    opacity: 0;
+    transform: translateX(-100%);
+    transition: all 0.25s cubic-bezier(0, 1, 0, 1);
+    @include reset-list-style;
+
+    @include media-query('md') {
+      max-height: unset;
+      opacity: 1;
+      transform: translateX(0%);
+    }
+
+    &--expanded {
+      max-height: 100rem;
+      opacity: 1;
+      transform: translateX(0%);
+      transition: all 0.25s cubic-bezier(1, 0, 1, 0);
+    }
+  }
+
+  &__link {
+    @include reset-link-style;
+  }
+
+  &__contact-text {
+    margin: 0;
+  }
+}

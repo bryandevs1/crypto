@@ -1,0 +1,9 @@
+@import '@sass/mixins/index';
+
+.section-image {
+  padding-bottom: 10rem;
+
+  @include media-query('md') {
+    padding-bottom: 20rem;
+  }
+}

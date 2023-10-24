@@ -1,0 +1,28 @@
+@import '@sass/mixins/index';
+
+.news {
+  display: grid;
+
+  @include padding-y(10rem);
+  @include media-query('md') {
+    @include padding-y($top: 15rem, $bottom: 20rem);
+  }
+
+  &__title {
+    margin: 0;
+    @include heading-styles('large');
+  }
+
+  &__cards {
+    display: grid;
+    gap: 2.7rem;
+
+    @include padding-y($top: 3rem, $bottom: 5.1rem);
+    @include media-query('md') {
+      grid-template-columns: repeat(2, 1fr);
+    }
+    @include media-query('lg') {
+      grid-template-columns: repeat(3, 1fr);
+    }
+  }
+}

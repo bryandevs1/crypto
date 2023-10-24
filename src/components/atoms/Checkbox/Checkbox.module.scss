@@ -1,0 +1,56 @@
+@import '@sass/mixins/index';
+
+.checkbox {
+  &__label {
+    align-items: start;
+    cursor: pointer;
+    display: flex;
+    gap: 1rem;
+
+    @include body-styles('small', $color: var(--color-primary));
+    @include media-query('sm') {
+      align-items: center;
+    }
+  }
+
+  &__input {
+    appearance: none;
+    border: 0.15em solid var(--color-primary);
+    border-radius: 0.3em;
+    cursor: pointer;
+    flex-shrink: 0;
+    height: 1.7rem;
+    margin: 0;
+    margin-top: 0.5rem;
+    transition: background-color 0.1s, border-color 0.1s;
+    width: 1.7rem;
+    @include flex-center;
+
+    @include media-query('sm') {
+      margin-top: unset;
+    }
+
+    &:focus {
+      @include focus;
+    }
+
+    &::after {
+      color: var(--color-white-100);
+      content: '\2714';
+      font-size: 1.6rem;
+    }
+
+    &:checked {
+      background-color: var(--color-primary);
+    }
+
+    &--has-error {
+      border: 0.15em solid var(--color-red-50);
+    }
+  }
+
+  &__error-msg {
+    margin-top: 0.4em;
+    @include body-styles('small', var(--color-red-50));
+  }
+}

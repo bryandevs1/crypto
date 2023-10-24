@@ -1,0 +1,82 @@
+@import '@sass/mixins/index';
+
+@mixin slider-transform-translate($yAxis, $xAxis: $yAxis) {
+  transform: translateY($yAxis);
+
+  @include media-query('md') {
+    transform: translateX($xAxis);
+  }
+}
+
+@mixin button-size {
+  height: 7.6rem;
+  min-width: 100%;
+  @include media-query('md') {
+    min-width: 15rem;
+  }
+  @include media-query('lg') {
+    min-width: 22rem;
+  }
+}
+
+.button__container {
+  border: 1px solid var(--color-primary);
+  border-radius: 18px;
+  display: grid;
+  margin: 0 auto;
+  position: relative;
+  width: 60%;
+
+  @include media-query('md') {
+    display: flex;
+    width: fit-content;
+  }
+}
+
+.radio-button {
+  align-items: center;
+  background-color: transparent;
+  border: unset;
+  cursor: pointer;
+  display: flex;
+  justify-content: center;
+  text-transform: capitalize;
+  transition-delay: 0.25s;
+  transition-property: color;
+  z-index: 1;
+  @include button-size;
+  @include remove-user-selection;
+
+  &.active {
+    color: var(--color-white-100);
+    z-index: 2;
+  }
+}
+
+.button__active-background {
+  background-color: var(--color-primary);
+  border-radius: 16px;
+  color: white;
+  cursor: pointer;
+  left: 0;
+  position: absolute;
+  top: 0;
+  transition: transform 0.8s;
+  @include button-size;
+
+  &--to-first {
+    @include slider-transform-translate(0%);
+  }
+
+  &--to-second {
+    @include slider-transform-translate(100%);
+  }
+
+  &--to-third {
+    @include slider-transform-translate(200%);
+  }
+
+  &--to-fourth {
+    @include slider-transform-translate(300%);
+  }
+}

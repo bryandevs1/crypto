@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "title": "What we do",
+    "description": "We specialize in creating bespoke intrior designs that transform spaces into personalized, functional and aesthetically pleasing environments. From concept to execution, our team rings expertise and creativity to eery project, ensuring a unique and tailored approach for each client.",
+    "buttonTitle": "Our Concept",
+    "buttonLink": "/services",
+    "imgUrl": "/assets/images/messy-garage.jpg",
+    "blurhash": "UDFOcRyX.9.T4:-:-:R*00Di4nI9ozIAD%M{"
+  },
+  {
+    "id": 2,
+    "title": "The End Result",
+    "description": "At Forte Interior, we deliver interiors that not only reflect your style and prefernces but also enhance the functionality and comfort of your space. Our designs lead to harmonious inviting environments that resonate with your lifestyle, leaving you with a home that truly feels like yours.",
+    "buttonTitle": "Our Portfolio",
+    "buttonLink": "/projects",
+    "imgUrl": "/assets/images/modern-living-room.jpg",
+    "blurhash": "UIOWjD_3?w-=.T?bxa%NDhRjIUM_tSWAxuof"
+  }
+]

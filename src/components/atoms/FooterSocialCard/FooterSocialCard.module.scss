@@ -1,0 +1,18 @@
+@import '@sass/mixins/index';
+
+.social-card__description {
+  margin: 1.8rem 0 3.1rem;
+}
+
+.social-card__social-links {
+  align-items: center;
+  display: flex;
+  gap: 5.4rem;
+  list-style: none;
+  margin: 0 0 3rem;
+  padding: 0;
+}
+
+.link {
+  @include reset-link-style;
+}

@@ -1,0 +1,15 @@
+@import '@sass/mixins/index';
+
+.benefits {
+  display: grid;
+  gap: 3rem;
+  margin: 10rem auto;
+  max-width: 103.6rem;
+
+  @include media-query('lg') {
+    display: flex;
+    gap: unset;
+    justify-content: space-between;
+    margin: 15rem auto;
+  }
+}

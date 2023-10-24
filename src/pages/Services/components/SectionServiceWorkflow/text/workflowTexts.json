@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "step": "01",
+    "title": "Concept & Details",
+    "description": "Our journey begins with an in-depth exploration of your project's concept and intricacies. We leave no stone unturned to ensure that every detail is meticulously considered and integrated.",
+    "iconUrl": "/assets/svg/workflowStepsIcons/first-step-icon.svg",
+    "imgUrl": "/assets/images/workflow/presentation-image.jpg",
+    "blurhash": "UPMG^+tS.8-:~Wn$oyM{^*%0RjWUS%WYM{tR"
+  },
+  {
+    "id": 2,
+      "step": "02",
+      "title": "Idea for Work",
+      "description": "Creativity is at the core of our process. We believe in creating ideas that not only captivate but also provide a compelling and readable narrative. Our layouts are carefully structured to convey a meaningful message to your audience.",
+    "iconUrl": "/assets/svg/workflowStepsIcons/second-step-icon.svg",
+    "imgUrl": "/assets/images/workflow/workflow-image.jpg",
+    "blurhash": "UaKT}RxY.7x]~qM{Mxt7x^xuWCRkn#W?V?V@"
+  },
+  {
+    "id": 3,
+    "step": "03",
+    "title": "Design",
+    "description": "Our design philosophy revolves around crafting layouts that not only catch the eye but also leave a lasting impression. We carefully consider the aesthetics and functionality of our designs to ensure they align perfectly with your goals.",
+    "iconUrl": "/assets/svg/workflowStepsIcons/third-step-icon.svg",
+    "imgUrl": "/assets/images/workflow/white-kitchen.jpg",
+    "blurhash": "UTKw|P%M9Es:~qNGR%xu9ZoLM{ofR+%3RPae"
+  },
+  {
+    "id": 4,
+    "step": "04",
+    "title": "Perfection",
+    "description": "We are committed to achieving perfection in every aspect of our work. From the content's readability to the layout's aesthetics, we strive to deliver a more-than-satisfactory outcome that aligns with your vision.",
+    "iconUrl": "/assets/svg/workflowStepsIcons/fourth-step-icon.svg",
+    "imgUrl": "/assets/images/workflow/kitchen-shelf.jpg",
+    "blurhash": "ULNd5d-oNH.8_NozD%Rj.9x]9EMdIUt7RjWB"
+  }
+]

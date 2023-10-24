@@ -1,0 +1,32 @@
+@mixin wrapper {
+  display: grid;
+
+  @include media-query('md') {
+    gap: 0.5rem;
+  }
+}
+
+@mixin field {
+  background: transparent;
+  border-color: var(--color-black-0);
+  border-style: solid;
+  border-width: 0 0 1px;
+  width: 100%;
+
+  @include body-styles('large');
+  @include media-query('md') {
+    padding-bottom: 1.3rem;
+  }
+}
+
+@mixin focus {
+  outline: none;
+}
+
+@mixin has-error {
+  border-color: var(--color-red-50);
+}
+
+@mixin error-msg {
+  color: var(--color-red-50);
+}

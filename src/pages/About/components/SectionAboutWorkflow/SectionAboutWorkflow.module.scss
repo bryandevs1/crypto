@@ -1,0 +1,69 @@
+@import '@sass/mixins/index';
+
+.workflow {
+  display: grid;
+  gap: 8rem;
+  @include padding-y($top: 10rem, $bottom: 10rem);
+
+  @include media-query('md') {
+    @include padding-y($top: 20rem, $bottom: 17.3rem);
+  }
+
+  @include media-query('lg') {
+    gap: 15rem;
+  }
+}
+
+.workflow-single {
+  display: grid;
+  gap: 4.1rem;
+
+  @include media-query('lg') {
+    display: flex;
+    justify-content: space-between;
+
+    &:nth-child(even) {
+      flex-direction: row-reverse;
+    }
+  }
+
+  &__text-container {
+    align-items: start;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    max-width: 65rem;
+
+    @include media-query('lg') {
+      max-width: 44rem;
+    }
+  }
+
+  &__title {
+    @include heading-styles('large');
+  }
+
+  &__description {
+    @include padding-y($top: 2.3rem, $bottom: 4.1rem);
+    @include body-styles('large');
+  }
+
+  &__image-container {
+    border-radius: 40px;
+    height: 35rem;
+    max-height: 37.7rem;
+    overflow: hidden;
+    position: relative;
+    width: 100%;
+
+    @include media-query('lg') {
+      border-radius: 70px;
+      max-width: 65.9rem;
+    }
+  }
+
+  &__title,
+  &__description {
+    margin: 0;
+  }
+}

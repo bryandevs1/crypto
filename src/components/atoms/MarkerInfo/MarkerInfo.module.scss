@@ -1,0 +1,11 @@
+@import '@sass/mixins/index';
+
+.marker-info {
+  font-family: var(--font-family-secondary), sans-serif;
+  font-size: var(--font-size-base);
+
+  &__title {
+    display: block;
+    font-weight: bold;
+  }
+}

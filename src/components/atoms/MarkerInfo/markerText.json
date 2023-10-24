@@ -1,0 +1,12 @@
+[
+  {
+    "id": 1,
+    "label": "Address: ",
+    "description": "Kaunas, Lorem street, 73584"
+  },
+  {
+    "id": 2,
+    "label": "Opening Hours: ",
+    "description": "I - V d. 08:00-17:00"
+  }
+]

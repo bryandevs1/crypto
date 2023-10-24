@@ -1,0 +1,78 @@
+@import '@sass/mixins/index';
+
+.hero {
+  align-items: center;
+  border-radius: 0 0 0 30%;
+  display: flex;
+  height: 60rem;
+  justify-content: start;
+  margin-bottom: 11.7rem;
+  overflow: hidden;
+  position: relative;
+  width: 100%;
+
+  @include media-query('md') {
+    height: 70rem;
+  }
+  @include media-query('lg') {
+    border-radius: 0 0 0 291px;
+    height: 83.2rem;
+  }
+
+  &__img {
+    height: 100%;
+    object-fit: cover;
+    opacity: 0.4;
+    position: absolute;
+    width: 100%;
+    z-index: -1;
+  }
+
+  &__title-container {
+    max-width: 50rem;
+    @include padding-x(1.75rem);
+
+    @include media-query('md') {
+      @include padding-x(4rem);
+      @include padding-y(4.1rem);
+    }
+    @include media-query('lg') {
+      margin-left: 15%;
+      max-width: 56.7rem;
+      padding: unset;
+    }
+    @include media-query('xxl') {
+      margin-left: 36rem;
+    }
+  }
+
+  &__description {
+    margin: 0 0 2.1rem;
+    @include body-styles('large', $color: var(--color-dark-130));
+  }
+
+  &__title {
+    color: var(--color-secondary);
+    font-family: var(--font-family-primary);
+    font-size: 4rem;
+    font-weight: 400;
+    line-height: var(--line-height-heading);
+    margin: 0 0 0.9rem;
+
+    @include media-query('md') {
+      font-size: 5rem;
+    }
+    @include media-query('lg') {
+      font-size: 8.5rem;
+    }
+  }
+
+  &__backwards-link {
+    @include reset-link-style;
+  }
+
+  &__current-page,
+  &__title {
+    cursor: default;
+  }
+}

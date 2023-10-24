@@ -1,0 +1,11 @@
+@import '@sass/mixins/index';
+
+.page-pagination {
+  display: flex;
+  gap: 1rem;
+  justify-content: center;
+
+  @include media-query('md') {
+    gap: 2rem;
+  }
+}

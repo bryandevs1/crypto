@@ -1,0 +1,749 @@
+{
+  "category": "kitchen",
+  "projectsInfo": [
+    {
+      "id": 1,
+      "imgUrl": "/assets/images/projectsImages/kitchen/classic-kitchen.jpg",
+      "blurhash": "UUKKND?aE1jt~pt7o0%29FoMNGRiMxt7o}j]",
+      "title": "Classic Kitchen",
+      "serviceCategory": "Decor",
+      "projectId": "kitchen-project1",
+      "details": [
+        {
+          "title": "Client",
+          "text": "Your client name"
+        },
+        {
+          "title": "Category",
+          "text": "Interior"
+        },
+        {
+          "title": "Tags",
+          "text": "interior, Home"
+        },
+        {
+          "title": "Date",
+          "text": "12,05, 2023"
+        },
+        {
+          "title": "Link",
+          "text": "Link example.com"
+        }
+      ],
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquamsem vitae turpis dignissim maximus. Aliquam sollicitudin tellumassa, vbel maximus purus posuere in. Dojrices gravida dignissim. Praesent at nibh in mi fringilla mattis. Phasellus ut dolor odio. Aenean in the ipsum vel lectus bibendum commodo. \n\nIn nec sem suscipit, convallis leo vitae, lacinia nibh. Cras amet tellus lectus. Vivamus ipsum nunc, mattis quis nibh id, pellentesque arcu. Donec a pellentesque Cras erat enim, gravida non ante vitae,elequis convallis elit, in viverra felis. Donec ultrices tellus vitae iaculisvd porta. Proin tincidunt ligula id purus porttitor."
+    },
+    {
+      "id": 2,
+      "imgUrl": "/assets/images/projectsImages/kitchen/classic-light-kitchen.jpg",
+      "blurhash": "UMLqOq?wo~-;~pD*RPn$M|%2bcWVtRoIs:WX",
+      "title": "Classic Kitchen",
+      "serviceCategory": "Decor",
+      "projectId": "kitchen-project2",
+      "details": [
+        {
+          "title": "Client",
+          "text": "Your client name"
+        },
+        {
+          "title": "Category",
+          "text": "Interior"
+        },
+        {
+          "title": "Tags",
+          "text": "interior, Home"
+        },
+        {
+          "title": "Date",
+          "text": "02,12, 2022"
+        },
+        {
+          "title": "Link",
+          "text": "Link example.com"
+        }
+      ],
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Veniam aliquam soluta porro obcaecati nesciunt. Dolore suscipit voluptas, minus at doloribus eum vero pariatur iste explicabo nam deserunt? Pariatur, amet itaque incidunt dolore, quisquam nisi nemo illo asperiores odio eum officiis. \n\nLorem ipsum dolor sit amet consectetur adipisicing elit. Veniam aliquam soluta porro obcaecati nesciunt. Dolore suscipit voluptas, minus at doloribus eum vero pariatur iste explicabo nam deserunt? Pariatur, amet itaque incidunt dolore, quisquam nisi nemo illo asperiores odio eum officiis."
+    },
+    {
+      "id": 3,
+      "imgUrl": "/assets/images/projectsImages/kitchen/modern-kitchen.jpg",
+      "blurhash": "UaLzv:xtM{af?wM{t7R*V@oKt7axt8xuWAt7",
+      "title": "Modern Kitchen",
+      "serviceCategory": "Decor",
+      "projectId": "kitchen-project3",
+      "details": [
+        {
+          "title": "Client",
+          "text": "Your client name"
+        },
+        {
+          "title": "Category",
+          "text": "Interior"
+        },
+        {
+          "title": "Tags",
+          "text": "interior, Home"
+        },
+        {
+          "title": "Date",
+          "text": "16,08, 2022"
+        },
+        {
+          "title": "Link",
+          "text": "Link example.com"
+        }
+      ],
+      "description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Voluptate vel recusandae accusantium amet illum nobis, minus, esse reiciendis placeat neque ad in sint sapiente commodi! Earum, voluptas rem accusamus consequatur nobis aut iusto dolorum nihil. Nulla iste cumque et cum? \n\nLorem ipsum dolor, sit amet consectetur adipisicing elit. Voluptate vel recusandae accusantium amet illum nobis, minus, esse reiciendis placeat neque ad in sint sapiente commodi! Earum, voluptas rem accusamus consequatur nobis aut iusto dolorum nihil. Nulla iste cumque et cum?"
+    },
+    {
+      "id": 4,
+      "imgUrl": "/assets/images/projectsImages/kitchen/classic-light-kitchen2.jpg",
+      "blurhash": "UYOfiLV@%M%M_NxuM|RjRPjZjYWBNHM|jZt7",
+      "title": "Classic Kitchen",
+      "serviceCategory": "Decor",
+      "projectId": "kitchen-project4",
+      "details": [
+        {
+          "title": "Client",
+          "text": "Your client name"
+        },
+        {
+          "title": "Category",
+          "text": "Interior"
+        },
+        {
+          "title": "Tags",
+          "text": "interior, Home"
+        },
+        {
+          "title": "Date",
+          "text": "07,10, 2022"
+        },
+        {
+          "title": "Link",
+          "text": "Link example.com"
+        }
+      ],
+      "description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Dolores assumenda voluptatem quae porro labore facere dolorem corrupti blanditiis eius distinctio consectetur minus veniam sunt, cum repellat asperiores placeat, quisquam recusandae! \n\nLorem ipsum dolor, sit amet consectetur adipisicing elit. Asperiores quae odit, ratione, delectus inventore iste quod ipsam dolores sequi porro vel est reprehenderit molestiae. Nobis pariatur voluptate, fuga dignissimos officiis ullam, modi harum dolore incidunt asperiores quos illo. Fuga harum dolore neque eum adipisci tenetur accusamus veniam consequuntur a suscipit!"
+    },
+    {
+      "id": 5,
+      "imgUrl": "/assets/images/projectsImages/kitchen/modern-kitchen2.jpg",
+      "blurhash": "UCKnl4x^~qWYITM{xuWBNHV@ofs:RkRkxukB",
+      "title": "Modern Kitchen",
+      "serviceCategory": "Decor",
+      "projectId": "kitchen-project5",
+      "details": [
+        {
+          "title": "Client",
+          "text": "Your client name"
+        },
+        {
+          "title": "Category",
+          "text": "Interior"
+        },
+        {
+          "title": "Tags",
+          "text": "interior, Home"
+        },
+        {
+          "title": "Date",
+          "text": "30,05, 2022"
+        },
+        {
+          "title": "Link",
+          "text": "Link example.com"
+        }
+      ],
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Impedit quasi adipisci qui sit culpa delectus excepturi pariatur corporis! Ipsa provident eius est eum, laborum eligendi aspernatur quis iure eveniet, ullam incidunt ut doloribus totam debitis voluptatibus eaque itaque velit, tempore nihil nulla repudiandae. Repellendus, et possimus alias aperiam nostrum consequuntur reprehenderit provident suscipit voluptates officiis corporis corrupti autem ipsa architecto tempora quia natus a modi, in excepturi sequi id inventore, deleniti esse? Quaerat sit ut unde saepe hic accusamus sequi."
+    },
+    {
+      "id": 6,
+      "imgUrl": "/assets/images/projectsImages/kitchen/modern-kitchen3.jpg",
+      "blurhash": "UMJ[3K_N9vn$-;ofi]ad-oNI%MjFtSt7s:f,",
+      "title": "Modern Kitchen",
+      "serviceCategory": "Decor",
+      "projectId": "kitchen-project6",
+      "details": [
+        {
+          "title": "Client",
+          "text": "Your client name"
+        },
+        {
+          "title": "Category",
+          "text": "Interior"
+        },
+        {
+          "title": "Tags",
+          "text": "interior, Home"
+        },
+        {
+          "title": "Date",
+          "text": "19,01, 2023"
+        },
+        {
+          "title": "Link",
+          "text": "Link example.com"
+        }
+      ],
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Minus assumenda, harum iure, quos cupiditate magni, commodi dolore modi atque maxime beatae ab! Natus quam, sit eum inventore asperiores repellat maxime, dolore laborum omnis dolorem officia dolores aut, quisquam non beatae. \n\nLorem ipsum dolor sit amet consectetur adipisicing elit. Minus assumenda, harum iure, quos cupiditate magni, commodi dolore modi atque maxime beatae ab! Natus quam, sit eum inventore asperiores repellat maxime, dolore laborum omnis dolorem officia dolores aut, quisquam non beatae."
+    },
+    {
+      "id": 7,
+      "imgUrl": "/assets/images/projectsImages/kitchen/modern-kitchen4.jpg",
+      "blurhash": "UKH2$A.8tm-;.At9IVkE-,-.IVt3%gt8M}Ri",
+      "title": "Modern Kitchen",
+      "serviceCategory": "Decor",
+      "projectId": "kitchen-project7",
+      "details": [
+        {
+          "title": "Client",
+          "text": "Your client name"
+        },
+        {
+          "title": "Category",
+          "text": "Interior"
+        },
+        {
+          "title": "Tags",
+          "text": "interior, Home"
+        },
+        {
+          "title": "Date",
+          "text": "01,08, 2022"
+        },
+        {
+          "title": "Link",
+          "text": "Link example.com"
+        }
+      ],
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Impedit, tempore dolorum nam rerum quasi soluta voluptates natus non magni at? Laudantium nemo ullam culpa et! Veniam nisi officia quidem vel! Molestiae dolores nemo, ad vel eveniet eligendi porro tenetur provident. \n\nLorem ipsum dolor sit, amet consectetur adipisicing elit. Omnis, eligendi fugiat? Doloremque corrupti magnam aliquam sequi totam accusantium quo ut, assumenda praesentium aspernatur et soluta voluptate aut modi odio nostrum?"
+    },
+    {
+      "id": 8,
+      "imgUrl": "/assets/images/projectsImages/kitchen/minimal-kitchen.jpg",
+      "blurhash": "UdKUQOxUNGtR~ofmt7WBt8M{WBM|NHxtt7of",
+      "title": "Minimal Kitchen",
+      "serviceCategory": "Decor",
+      "projectId": "kitchen-project8",
+      "details": [
+        {
+          "title": "Client",
+          "text": "Your client name"
+        },
+        {
+          "title": "Category",
+          "text": "Interior"
+        },
+        {
+          "title": "Tags",
+          "text": "interior, Home"
+        },
+        {
+          "title": "Date",
+          "text": "20,03, 2023"
+        },
+        {
+          "title": "Link",
+          "text": "Link example.com"
+        }
+      ],
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quidem, cupiditate? Maiores autem, ad in cupiditate minima alias praesentium consectetur dolorum. \n\nLorem ipsum dolor sit amet consectetur adipisicing elit. Soluta nostrum nihil repudiandae nam libero doloremque. Sint voluptates aliquam assumenda optio nam, porro fuga a? Architecto reiciendis eligendi laboriosam, quisquam iste inventore? Incidunt magnam nihil odio magni distinctio numquam, harum voluptatum quod accusamus? Facilis sapiente sunt delectus eum modi veritatis expedita necessitatibus corporis ea officia? Repellendus corporis necessitatibus porro molestiae ipsa!"
+    },
+    {
+      "id": 9,
+      "imgUrl": "/assets/images/projectsImages/kitchen/classic-light-kitchen2.jpg",
+      "blurhash": "UYOfiLV@%M%M_NxuM|RjRPjZjYWBNHM|jZt7",
+      "title": "Classic Kitchen",
+      "serviceCategory": "Decor",
+      "projectId": "kitchen-project4",
+      "details": [
+        {
+          "title": "Client",
+          "text": "Your client name"
+        },
+        {
+          "title": "Category",
+          "text": "Interior"
+        },
+        {
+          "title": "Tags",
+          "text": "interior, Home"
+        },
+        {
+          "title": "Date",
+          "text": "07,10, 2022"
+        },
+        {
+          "title": "Link",
+          "text": "Link example.com"
+        }
+      ],
+      "description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Dolores assumenda voluptatem quae porro labore facere dolorem corrupti blanditiis eius distinctio consectetur minus veniam sunt, cum repellat asperiores placeat, quisquam recusandae! \n\nLorem ipsum dolor, sit amet consectetur adipisicing elit. Asperiores quae odit, ratione, delectus inventore iste quod ipsam dolores sequi porro vel est reprehenderit molestiae. Nobis pariatur voluptate, fuga dignissimos officiis ullam, modi harum dolore incidunt asperiores quos illo. Fuga harum dolore neque eum adipisci tenetur accusamus veniam consequuntur a suscipit!"
+    },
+    {
+      "id": 10,
+      "imgUrl": "/assets/images/projectsImages/kitchen/minimal-kitchen.jpg",
+      "blurhash": "UdKUQOxUNGtR~ofmt7WBt8M{WBM|NHxtt7of",
+      "title": "Minimal Kitchen",
+      "serviceCategory": "Decor",
+      "projectId": "kitchen-project8",
+      "details": [
+        {
+          "title": "Client",
+          "text": "Your client name"
+        },
+        {
+          "title": "Category",
+          "text": "Interior"
+        },
+        {
+          "title": "Tags",
+          "text": "interior, Home"
+        },
+        {
+          "title": "Date",
+          "text": "20,03, 2023"
+        },
+        {
+          "title": "Link",
+          "text": "Link example.com"
+        }
+      ],
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quidem, cupiditate? Maiores autem, ad in cupiditate minima alias praesentium consectetur dolorum. \n\nLorem ipsum dolor sit amet consectetur adipisicing elit. Soluta nostrum nihil repudiandae nam libero doloremque. Sint voluptates aliquam assumenda optio nam, porro fuga a? Architecto reiciendis eligendi laboriosam, quisquam iste inventore? Incidunt magnam nihil odio magni distinctio numquam, harum voluptatum quod accusamus? Facilis sapiente sunt delectus eum modi veritatis expedita necessitatibus corporis ea officia? Repellendus corporis necessitatibus porro molestiae ipsa!"
+    },
+    {
+      "id": 11,
+      "imgUrl": "/assets/images/projectsImages/kitchen/modern-kitchen3.jpg",
+      "blurhash": "UMJ[3K_N9vn$-;ofi]ad-oNI%MjFtSt7s:f,",
+      "title": "Modern Kitchen",
+      "serviceCategory": "Decor",
+      "projectId": "kitchen-project6",
+      "details": [
+        {
+          "title": "Client",
+          "text": "Your client name"
+        },
+        {
+          "title": "Category",
+          "text": "Interior"
+        },
+        {
+          "title": "Tags",
+          "text": "interior, Home"
+        },
+        {
+          "title": "Date",
+          "text": "19,01, 2023"
+        },
+        {
+          "title": "Link",
+          "text": "Link example.com"
+        }
+      ],
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Minus assumenda, harum iure, quos cupiditate magni, commodi dolore modi atque maxime beatae ab! Natus quam, sit eum inventore asperiores repellat maxime, dolore laborum omnis dolorem officia dolores aut, quisquam non beatae. \n\nLorem ipsum dolor sit amet consectetur adipisicing elit. Minus assumenda, harum iure, quos cupiditate magni, commodi dolore modi atque maxime beatae ab! Natus quam, sit eum inventore asperiores repellat maxime, dolore laborum omnis dolorem officia dolores aut, quisquam non beatae."
+    },
+    {
+      "id": 12,
+      "imgUrl": "/assets/images/projectsImages/kitchen/classic-kitchen.jpg",
+      "blurhash": "UUKKND?aE1jt~pt7o0%29FoMNGRiMxt7o}j]",
+      "title": "Classic Kitchen",
+      "serviceCategory": "Decor",
+      "projectId": "kitchen-project1",
+      "details": [
+        {
+          "title": "Client",
+          "text": "Your client name"
+        },
+        {
+          "title": "Category",
+          "text": "Interior"
+        },
+        {
+          "title": "Tags",
+          "text": "interior, Home"
+        },
+        {
+          "title": "Date",
+          "text": "12,05, 2023"
+        },
+        {
+          "title": "Link",
+          "text": "Link example.com"
+        }
+      ],
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquamsem vitae turpis dignissim maximus. Aliquam sollicitudin tellumassa, vbel maximus purus posuere in. Dojrices gravida dignissim. Praesent at nibh in mi fringilla mattis. Phasellus ut dolor odio. Aenean in the ipsum vel lectus bibendum commodo. \n\nIn nec sem suscipit, convallis leo vitae, lacinia nibh. Cras amet tellus lectus. Vivamus ipsum nunc, mattis quis nibh id, pellentesque arcu. Donec a pellentesque Cras erat enim, gravida non ante vitae,elequis convallis elit, in viverra felis. Donec ultrices tellus vitae iaculisvd porta. Proin tincidunt ligula id purus porttitor."
+    },
+    {
+      "id": 13,
+      "imgUrl": "/assets/images/projectsImages/kitchen/modern-kitchen4.jpg",
+      "blurhash": "UKH2$A.8tm-;.At9IVkE-,-.IVt3%gt8M}Ri",
+      "title": "Modern Kitchen",
+      "serviceCategory": "Decor",
+      "projectId": "kitchen-project7",
+      "details": [
+        {
+          "title": "Client",
+          "text": "Your client name"
+        },
+        {
+          "title": "Category",
+          "text": "Interior"
+        },
+        {
+          "title": "Tags",
+          "text": "interior, Home"
+        },
+        {
+          "title": "Date",
+          "text": "01,08, 2022"
+        },
+        {
+          "title": "Link",
+          "text": "Link example.com"
+        }
+      ],
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Impedit, tempore dolorum nam rerum quasi soluta voluptates natus non magni at? Laudantium nemo ullam culpa et! Veniam nisi officia quidem vel! Molestiae dolores nemo, ad vel eveniet eligendi porro tenetur provident. \n\nLorem ipsum dolor sit, amet consectetur adipisicing elit. Omnis, eligendi fugiat? Doloremque corrupti magnam aliquam sequi totam accusantium quo ut, assumenda praesentium aspernatur et soluta voluptate aut modi odio nostrum?"
+    },
+    {
+      "id": 14,
+      "imgUrl": "/assets/images/projectsImages/kitchen/modern-kitchen.jpg",
+      "blurhash": "UaLzv:xtM{af?wM{t7R*V@oKt7axt8xuWAt7",
+      "title": "Modern Kitchen",
+      "serviceCategory": "Decor",
+      "projectId": "kitchen-project3",
+      "details": [
+        {
+          "title": "Client",
+          "text": "Your client name"
+        },
+        {
+          "title": "Category",
+          "text": "Interior"
+        },
+        {
+          "title": "Tags",
+          "text": "interior, Home"
+        },
+        {
+          "title": "Date",
+          "text": "16,08, 2022"
+        },
+        {
+          "title": "Link",
+          "text": "Link example.com"
+        }
+      ],
+      "description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Voluptate vel recusandae accusantium amet illum nobis, minus, esse reiciendis placeat neque ad in sint sapiente commodi! Earum, voluptas rem accusamus consequatur nobis aut iusto dolorum nihil. Nulla iste cumque et cum? \n\nLorem ipsum dolor, sit amet consectetur adipisicing elit. Voluptate vel recusandae accusantium amet illum nobis, minus, esse reiciendis placeat neque ad in sint sapiente commodi! Earum, voluptas rem accusamus consequatur nobis aut iusto dolorum nihil. Nulla iste cumque et cum?"
+    },
+    {
+      "id": 15,
+      "imgUrl": "/assets/images/projectsImages/kitchen/modern-kitchen2.jpg",
+      "blurhash": "UCKnl4x^~qWYITM{xuWBNHV@ofs:RkRkxukB",
+      "title": "Modern Kitchen",
+      "serviceCategory": "Decor",
+      "projectId": "kitchen-project5",
+      "details": [
+        {
+          "title": "Client",
+          "text": "Your client name"
+        },
+        {
+          "title": "Category",
+          "text": "Interior"
+        },
+        {
+          "title": "Tags",
+          "text": "interior, Home"
+        },
+        {
+          "title": "Date",
+          "text": "30,05, 2022"
+        },
+        {
+          "title": "Link",
+          "text": "Link example.com"
+        }
+      ],
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Impedit quasi adipisci qui sit culpa delectus excepturi pariatur corporis! Ipsa provident eius est eum, laborum eligendi aspernatur quis iure eveniet, ullam incidunt ut doloribus totam debitis voluptatibus eaque itaque velit, tempore nihil nulla repudiandae. Repellendus, et possimus alias aperiam nostrum consequuntur reprehenderit provident suscipit voluptates officiis corporis corrupti autem ipsa architecto tempora quia natus a modi, in excepturi sequi id inventore, deleniti esse? Quaerat sit ut unde saepe hic accusamus sequi."
+    },
+    {
+      "id": 16,
+      "imgUrl": "/assets/images/projectsImages/kitchen/classic-light-kitchen.jpg",
+      "blurhash": "UMLqOq?wo~-;~pD*RPn$M|%2bcWVtRoIs:WX",
+      "title": "Classic Kitchen",
+      "serviceCategory": "Decor",
+      "projectId": "kitchen-project2",
+      "details": [
+        {
+          "title": "Client",
+          "text": "Your client name"
+        },
+        {
+          "title": "Category",
+          "text": "Interior"
+        },
+        {
+          "title": "Tags",
+          "text": "interior, Home"
+        },
+        {
+          "title": "Date",
+          "text": "02,12, 2022"
+        },
+        {
+          "title": "Link",
+          "text": "Link example.com"
+        }
+      ],
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Veniam aliquam soluta porro obcaecati nesciunt. Dolore suscipit voluptas, minus at doloribus eum vero pariatur iste explicabo nam deserunt? Pariatur, amet itaque incidunt dolore, quisquam nisi nemo illo asperiores odio eum officiis. \n\nLorem ipsum dolor sit amet consectetur adipisicing elit. Veniam aliquam soluta porro obcaecati nesciunt. Dolore suscipit voluptas, minus at doloribus eum vero pariatur iste explicabo nam deserunt? Pariatur, amet itaque incidunt dolore, quisquam nisi nemo illo asperiores odio eum officiis."
+    },
+    {
+      "id": 17,
+      "imgUrl": "/assets/images/projectsImages/kitchen/modern-kitchen2.jpg",
+      "blurhash": "UCKnl4x^~qWYITM{xuWBNHV@ofs:RkRkxukB",
+      "title": "Modern Kitchen",
+      "serviceCategory": "Decor",
+      "projectId": "kitchen-project5",
+      "details": [
+        {
+          "title": "Client",
+          "text": "Your client name"
+        },
+        {
+          "title": "Category",
+          "text": "Interior"
+        },
+        {
+          "title": "Tags",
+          "text": "interior, Home"
+        },
+        {
+          "title": "Date",
+          "text": "30,05, 2022"
+        },
+        {
+          "title": "Link",
+          "text": "Link example.com"
+        }
+      ],
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Impedit quasi adipisci qui sit culpa delectus excepturi pariatur corporis! Ipsa provident eius est eum, laborum eligendi aspernatur quis iure eveniet, ullam incidunt ut doloribus totam debitis voluptatibus eaque itaque velit, tempore nihil nulla repudiandae. Repellendus, et possimus alias aperiam nostrum consequuntur reprehenderit provident suscipit voluptates officiis corporis corrupti autem ipsa architecto tempora quia natus a modi, in excepturi sequi id inventore, deleniti esse? Quaerat sit ut unde saepe hic accusamus sequi."
+    },
+    {
+      "id": 18,
+      "imgUrl": "/assets/images/projectsImages/kitchen/modern-kitchen.jpg",
+      "blurhash": "UaLzv:xtM{af?wM{t7R*V@oKt7axt8xuWAt7",
+      "title": "Modern Kitchen",
+      "serviceCategory": "Decor",
+      "projectId": "kitchen-project3",
+      "details": [
+        {
+          "title": "Client",
+          "text": "Your client name"
+        },
+        {
+          "title": "Category",
+          "text": "Interior"
+        },
+        {
+          "title": "Tags",
+          "text": "interior, Home"
+        },
+        {
+          "title": "Date",
+          "text": "16,08, 2022"
+        },
+        {
+          "title": "Link",
+          "text": "Link example.com"
+        }
+      ],
+      "description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Voluptate vel recusandae accusantium amet illum nobis, minus, esse reiciendis placeat neque ad in sint sapiente commodi! Earum, voluptas rem accusamus consequatur nobis aut iusto dolorum nihil. Nulla iste cumque et cum? \n\nLorem ipsum dolor, sit amet consectetur adipisicing elit. Voluptate vel recusandae accusantium amet illum nobis, minus, esse reiciendis placeat neque ad in sint sapiente commodi! Earum, voluptas rem accusamus consequatur nobis aut iusto dolorum nihil. Nulla iste cumque et cum?"
+    },
+    {
+      "id": 19,
+      "imgUrl": "/assets/images/projectsImages/kitchen/classic-light-kitchen.jpg",
+      "blurhash": "UMLqOq?wo~-;~pD*RPn$M|%2bcWVtRoIs:WX",
+      "title": "Classic Kitchen",
+      "serviceCategory": "Decor",
+      "projectId": "kitchen-project2",
+      "details": [
+        {
+          "title": "Client",
+          "text": "Your client name"
+        },
+        {
+          "title": "Category",
+          "text": "Interior"
+        },
+        {
+          "title": "Tags",
+          "text": "interior, Home"
+        },
+        {
+          "title": "Date",
+          "text": "02,12, 2022"
+        },
+        {
+          "title": "Link",
+          "text": "Link example.com"
+        }
+      ],
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Veniam aliquam soluta porro obcaecati nesciunt. Dolore suscipit voluptas, minus at doloribus eum vero pariatur iste explicabo nam deserunt? Pariatur, amet itaque incidunt dolore, quisquam nisi nemo illo asperiores odio eum officiis. \n\nLorem ipsum dolor sit amet consectetur adipisicing elit. Veniam aliquam soluta porro obcaecati nesciunt. Dolore suscipit voluptas, minus at doloribus eum vero pariatur iste explicabo nam deserunt? Pariatur, amet itaque incidunt dolore, quisquam nisi nemo illo asperiores odio eum officiis."
+    },
+    {
+      "id": 20,
+      "imgUrl": "/assets/images/projectsImages/kitchen/modern-kitchen4.jpg",
+      "blurhash": "UKH2$A.8tm-;.At9IVkE-,-.IVt3%gt8M}Ri",
+      "title": "Modern Kitchen",
+      "serviceCategory": "Decor",
+      "projectId": "kitchen-project7",
+      "details": [
+        {
+          "title": "Client",
+          "text": "Your client name"
+        },
+        {
+          "title": "Category",
+          "text": "Interior"
+        },
+        {
+          "title": "Tags",
+          "text": "interior, Home"
+        },
+        {
+          "title": "Date",
+          "text": "01,08, 2022"
+        },
+        {
+          "title": "Link",
+          "text": "Link example.com"
+        }
+      ],
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Impedit, tempore dolorum nam rerum quasi soluta voluptates natus non magni at? Laudantium nemo ullam culpa et! Veniam nisi officia quidem vel! Molestiae dolores nemo, ad vel eveniet eligendi porro tenetur provident. \n\nLorem ipsum dolor sit, amet consectetur adipisicing elit. Omnis, eligendi fugiat? Doloremque corrupti magnam aliquam sequi totam accusantium quo ut, assumenda praesentium aspernatur et soluta voluptate aut modi odio nostrum?"
+    },
+    {
+      "id": 21,
+      "imgUrl": "/assets/images/projectsImages/kitchen/classic-kitchen.jpg",
+      "blurhash": "UUKKND?aE1jt~pt7o0%29FoMNGRiMxt7o}j]",
+      "title": "Classic Kitchen",
+      "serviceCategory": "Decor",
+      "projectId": "kitchen-project1",
+      "details": [
+        {
+          "title": "Client",
+          "text": "Your client name"
+        },
+        {
+          "title": "Category",
+          "text": "Interior"
+        },
+        {
+          "title": "Tags",
+          "text": "interior, Home"
+        },
+        {
+          "title": "Date",
+          "text": "12,05, 2023"
+        },
+        {
+          "title": "Link",
+          "text": "Link example.com"
+        }
+      ],
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquamsem vitae turpis dignissim maximus. Aliquam sollicitudin tellumassa, vbel maximus purus posuere in. Dojrices gravida dignissim. Praesent at nibh in mi fringilla mattis. Phasellus ut dolor odio. Aenean in the ipsum vel lectus bibendum commodo. \n\nIn nec sem suscipit, convallis leo vitae, lacinia nibh. Cras amet tellus lectus. Vivamus ipsum nunc, mattis quis nibh id, pellentesque arcu. Donec a pellentesque Cras erat enim, gravida non ante vitae,elequis convallis elit, in viverra felis. Donec ultrices tellus vitae iaculisvd porta. Proin tincidunt ligula id purus porttitor."
+    },
+    {
+      "id": 22,
+      "imgUrl": "/assets/images/projectsImages/kitchen/minimal-kitchen.jpg",
+      "blurhash": "UdKUQOxUNGtR~ofmt7WBt8M{WBM|NHxtt7of",
+      "title": "Minimal Kitchen",
+      "serviceCategory": "Decor",
+      "projectId": "kitchen-project8",
+      "details": [
+        {
+          "title": "Client",
+          "text": "Your client name"
+        },
+        {
+          "title": "Category",
+          "text": "Interior"
+        },
+        {
+          "title": "Tags",
+          "text": "interior, Home"
+        },
+        {
+          "title": "Date",
+          "text": "20,03, 2023"
+        },
+        {
+          "title": "Link",
+          "text": "Link example.com"
+        }
+      ],
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quidem, cupiditate? Maiores autem, ad in cupiditate minima alias praesentium consectetur dolorum. \n\nLorem ipsum dolor sit amet consectetur adipisicing elit. Soluta nostrum nihil repudiandae nam libero doloremque. Sint voluptates aliquam assumenda optio nam, porro fuga a? Architecto reiciendis eligendi laboriosam, quisquam iste inventore? Incidunt magnam nihil odio magni distinctio numquam, harum voluptatum quod accusamus? Facilis sapiente sunt delectus eum modi veritatis expedita necessitatibus corporis ea officia? Repellendus corporis necessitatibus porro molestiae ipsa!"
+    },
+    {
+      "id": 23,
+      "imgUrl": "/assets/images/projectsImages/kitchen/classic-light-kitchen2.jpg",
+      "blurhash": "UYOfiLV@%M%M_NxuM|RjRPjZjYWBNHM|jZt7",
+      "title": "Classic Kitchen",
+      "serviceCategory": "Decor",
+      "projectId": "kitchen-project4",
+      "details": [
+        {
+          "title": "Client",
+          "text": "Your client name"
+        },
+        {
+          "title": "Category",
+          "text": "Interior"
+        },
+        {
+          "title": "Tags",
+          "text": "interior, Home"
+        },
+        {
+          "title": "Date",
+          "text": "07,10, 2022"
+        },
+        {
+          "title": "Link",
+          "text": "Link example.com"
+        }
+      ],
+      "description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Dolores assumenda voluptatem quae porro labore facere dolorem corrupti blanditiis eius distinctio consectetur minus veniam sunt, cum repellat asperiores placeat, quisquam recusandae! \n\nLorem ipsum dolor, sit amet consectetur adipisicing elit. Asperiores quae odit, ratione, delectus inventore iste quod ipsam dolores sequi porro vel est reprehenderit molestiae. Nobis pariatur voluptate, fuga dignissimos officiis ullam, modi harum dolore incidunt asperiores quos illo. Fuga harum dolore neque eum adipisci tenetur accusamus veniam consequuntur a suscipit!"
+    },
+    {
+      "id": 24,
+      "imgUrl": "/assets/images/projectsImages/kitchen/modern-kitchen3.jpg",
+      "blurhash": "UMJ[3K_N9vn$-;ofi]ad-oNI%MjFtSt7s:f,",
+      "title": "Modern Kitchen",
+      "serviceCategory": "Decor",
+      "projectId": "kitchen-project6",
+      "details": [
+        {
+          "title": "Client",
+          "text": "Your client name"
+        },
+        {
+          "title": "Category",
+          "text": "Interior"
+        },
+        {
+          "title": "Tags",
+          "text": "interior, Home"
+        },
+        {
+          "title": "Date",
+          "text": "19,01, 2023"
+        },
+        {
+          "title": "Link",
+          "text": "Link example.com"
+        }
+      ],
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Minus assumenda, harum iure, quos cupiditate magni, commodi dolore modi atque maxime beatae ab! Natus quam, sit eum inventore asperiores repellat maxime, dolore laborum omnis dolorem officia dolores aut, quisquam non beatae. \n\nLorem ipsum dolor sit amet consectetur adipisicing elit. Minus assumenda, harum iure, quos cupiditate magni, commodi dolore modi atque maxime beatae ab! Natus quam, sit eum inventore asperiores repellat maxime, dolore laborum omnis dolorem officia dolores aut, quisquam non beatae."
+    }
+  ]
+}

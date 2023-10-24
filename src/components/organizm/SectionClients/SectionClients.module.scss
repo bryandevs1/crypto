@@ -1,0 +1,29 @@
+@import '@sass/mixins/index';
+
+.clients {
+  display: grid;
+  gap: 4rem;
+  grid-template-columns: 1fr;
+  margin: 0 auto;
+  max-width: 109rem;
+  @include padding-y(10rem);
+
+  @include media-query('sm') {
+    align-items: center;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 4rem;
+    justify-content: center;
+  }
+
+  @include media-query('lg') {
+    gap: unset;
+    justify-content: space-between;
+    @include padding-y(15rem);
+  }
+
+  &__images {
+    align-self: center;
+    justify-self: center;
+  }
+}

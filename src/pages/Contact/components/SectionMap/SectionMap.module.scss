@@ -1,0 +1,13 @@
+@import '@sass/mixins/index';
+
+.map {
+  border-radius: 70px;
+  height: 38rem;
+  margin: 10rem 0;
+  overflow: hidden;
+
+  @include media-query('md') {
+    height: 50rem;
+    margin: 15rem 0 20rem;
+  }
+}

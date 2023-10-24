@@ -1,0 +1,23 @@
+@media (min-width: 968px) {
+  .container-section {
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 150px;
+    margin-left: -0;
+    padding: 0;
+  }
+}
+
+@media (max-width: 968px) {
+  .container-section {
+    align-items: center; /* Center items vertically */
+    display: flex;
+    flex-direction: column;
+  }
+}
+
+.cart {
+  text-align: justify; /* Center the cart content */
+}
+
+/* Container.css */

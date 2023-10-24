@@ -1,0 +1,47 @@
+@import '@sass/mixins/index';
+
+.circle-link {
+  background: var(--color-tertiary);
+  border-radius: 50%;
+  cursor: pointer;
+
+  @include flex-center;
+
+  &__small {
+    height: 5.2rem;
+    width: 5.2rem;
+  }
+
+  &__large {
+    height: 5rem;
+    width: 5rem;
+
+    @include media-query('md') {
+      height: 7rem;
+      width: 7rem;
+    }
+  }
+}
+
+.arrow-link {
+  align-items: center;
+  cursor: pointer;
+  display: inline-flex;
+  height: 1.8rem;
+  text-decoration: none;
+
+  @include body-styles('small', $weight: 600);
+
+  &__icon {
+    padding-left: 1.2rem;
+    width: auto;
+  }
+
+  &__path {
+    stroke: var(--color-primary);
+  }
+
+  &:hover &__icon {
+    @include arrow-slide-animation(0.7s);
+  }
+}

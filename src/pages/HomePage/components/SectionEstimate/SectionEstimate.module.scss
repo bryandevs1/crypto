@@ -1,0 +1,101 @@
+@import '@sass/mixins/index';
+
+.estimate {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  gap: 3rem;
+  @include padding-y(10rem);
+
+  @include media-query('lg') {
+    flex-direction: row;
+    justify-content: space-between;
+    @include padding-y($top: 11.7rem, $bottom: 20rem);
+  }
+
+  &__text-container {
+    @include media-query('lg') {
+      max-width: 46rem;
+    }
+  }
+
+  &__title {
+    @include heading-styles('large');
+  }
+
+  &__description {
+    @include padding-y($top: 2rem, $bottom: 3.5rem);
+    @include body-styles('large');
+
+    @include media-query('lg') {
+      @include padding-y($top: 3.3rem, $bottom: 4.5rem);
+    }
+  }
+
+  &__phone-container {
+    display: flex;
+    gap: 1.5rem;
+  }
+
+  &__circle {
+    background: var(--color-tertiary);
+    border-radius: 50%;
+    height: 6.3rem;
+    width: 6.3rem;
+
+    @include flex-center;
+    @include media-query('lg') {
+      height: 9.3rem;
+      width: 9.3rem;
+    }
+  }
+
+  &__circle__img {
+    width: 45%;
+  }
+
+  &__phone-text-container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    padding-bottom: 3.5rem;
+
+    @include media-query('lg') {
+      padding-bottom: 4.7rem;
+    }
+  }
+
+  &__phone {
+    font-size: 2.4rem;
+    font-weight: 700;
+  }
+
+  &__phone-text {
+    @include body-styles('large');
+  }
+
+  &__title,
+  &__description,
+  &__phone,
+  &__phone-text {
+    margin: 0;
+  }
+}
+
+.image-wrapper {
+  border-radius: 0 80px;
+  height: 46rem;
+  overflow: hidden;
+  position: relative;
+  width: 100%;
+
+  @include media-query('md') {
+    border-radius: 0 123px;
+  }
+
+  @include media-query('lg') {
+    border-radius: 0 326.5px 0 123px;
+    height: 70rem;
+    width: 65.3rem;
+  }
+}

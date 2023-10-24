@@ -1,0 +1,134 @@
+@import '@sass/mixins/index';
+
+@keyframes nav-wrapper-in {
+  from {
+    transform: translateY(-100%);
+  }
+
+  to {
+    transform: translateY(0%);
+  }
+}
+
+@keyframes nav-element-in {
+  from {
+    opacity: 0;
+    transform: translateY(-50%);
+  }
+
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+.no-scroll {
+  overflow: hidden;
+}
+
+.navigation {
+  @include body-styles('medium', var(--color-secondary));
+
+  display: flex;
+
+  &--expanded {
+    align-items: center;
+    background-color: var(--color-rgba-dark);
+    display: flex;
+    flex-direction: column;
+    inset: 9rem 0 0 0;
+    overflow: scroll;
+    position: fixed;
+    z-index: 3;
+
+    @include media-query('md') {
+      align-items: baseline;
+      flex-direction: row;
+      overflow: visible;
+      position: static;
+      width: auto;
+    }
+  }
+
+  &--closed {
+    display: none;
+
+    @include media-query('md') {
+      display: flex;
+    }
+  }
+
+  &__wrapper {
+    @include reset-list-style;
+
+    animation: nav-wrapper-in 0.5s ease;
+    background-color: var(--color-golden-940);
+    border-radius: 2rem;
+    margin: 2rem;
+    padding: 2rem;
+    text-align: center;
+    width: 90%;
+
+    @include media-query('md') {
+      align-items: center;
+      animation: none;
+      background-color: unset;
+      border-radius: 0;
+      display: flex;
+      gap: 2.4rem;
+      margin: 0;
+      padding: 0;
+      width: unset;
+    }
+    @include media-query('lg') {
+      gap: 5rem;
+    }
+  }
+
+  &__link {
+    color: var(--color-secondary);
+    display: block;
+    margin-left: -10px;
+    text-decoration: none;
+  }
+
+  &__option {
+    align-items: center;
+    animation: nav-element-in 0.5s ease forwards;
+    cursor: pointer;
+    justify-content: center;
+    opacity: 0;
+    padding: 1.8rem 0;
+    @include body-styles('medium', var(--color-secondary));
+    @include delay-childs-animation($delay: 0.1, $childs: 6);
+
+    @include media-query('md') {
+      align-items: baseline;
+      animation: none;
+      display: flex;
+      flex-direction: row;
+      opacity: 1;
+      padding: 0;
+      text-decoration: none;
+    }
+
+    &--link {
+      @include body-styles('medium', var(--color-secondary));
+
+      text-decoration: none;
+    }
+  }
+}
+
+.nav-button {
+  background-color: var(--color-golden-940);
+  border: 0;
+  border-radius: 0.5rem;
+  height: 3.5rem;
+  width: 3.5rem;
+  @include flex-center;
+
+  @include media-query('md') {
+    display: none;
+  }
+}

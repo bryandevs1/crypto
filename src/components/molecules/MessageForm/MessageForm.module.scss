@@ -1,0 +1,41 @@
+@import '@sass/mixins/index';
+
+.contact-form {
+  display: grid;
+
+  &__container {
+    display: grid;
+    gap: 2rem;
+    padding-bottom: 2rem;
+
+    @include media-query('md') {
+      gap: 4rem;
+      grid-template-columns: repeat(2, 1fr);
+      padding-bottom: 4.5rem;
+    }
+  }
+
+  &__checkbox {
+    margin: 4rem auto 0;
+  }
+
+  &__button-wrapper {
+    display: flex;
+    justify-content: center;
+    padding-top: 5rem;
+
+    @include media-query('md') {
+      padding-top: 7.7rem;
+    }
+  }
+
+  &__button-wrapper--with-checkbox {
+    display: flex;
+    justify-content: center;
+    padding-top: 3rem;
+
+    @include media-query('md') {
+      padding-top: 4.1rem;
+    }
+  }
+}

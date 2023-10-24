@@ -1,0 +1,28 @@
+@import '@sass/mixins/index';
+
+.image {
+  height: 100%;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 100%;
+}
+
+.blurhash {
+  height: 100% !important;
+  left: 0;
+  position: absolute !important;
+  top: 0;
+  width: 100% !important;
+}
+
+.blurhash,
+.image {
+  left: 0;
+  top: 0;
+}
+
+.minus-z-index {
+  z-index: -1;
+}

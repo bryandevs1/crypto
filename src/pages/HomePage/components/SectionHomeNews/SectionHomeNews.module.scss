@@ -1,0 +1,40 @@
+@import '@sass/mixins/index';
+
+.news {
+  &__text-container {
+    margin: 0 auto;
+    max-width: 73.7rem;
+    text-align: center;
+  }
+
+  &__title {
+    @include heading-styles('large');
+  }
+
+  &__description {
+    @include padding-y($top: 0.8rem, $bottom: 5rem);
+    @include body-styles('large');
+
+    @include media-query('md') {
+      @include padding-y($top: 0.8rem, $bottom: 5.2rem);
+    }
+  }
+
+  &__cards-container {
+    display: grid;
+    gap: 2rem;
+
+    @include media-query('md') {
+      gap: 2.7rem;
+      grid-template-columns: repeat(2, 1fr);
+    }
+    @include media-query('lg') {
+      grid-template-columns: repeat(3, 1fr);
+    }
+  }
+
+  &__title,
+  &__description {
+    margin: 0;
+  }
+}

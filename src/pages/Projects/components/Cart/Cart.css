@@ -1,0 +1,64 @@
+/* Cart.css */
+
+/* Default styles for larger screens */
+.cart-item {
+  align-items: center;
+
+  /* border: 3px solid black; */
+  border-radius: 20px;
+  display: flex;
+  flex-direction: column;
+  height: 270px; /* Adjust the height as needed for larger screens */
+  margin: 5px;
+  overflow: hidden;
+  padding: 20px;
+  padding-bottom: 40px;
+  width: 80%;
+}
+
+.image-cover {
+  border-radius: 20px;
+  height: 90%;
+  object-fit: cover;
+  object-position: center;
+  width: 80%;
+}
+
+.fo {
+  font-weight: 800;
+  margin-right: 10px;
+}
+
+.ola {
+  background-color: black;
+  border-radius: 10px;
+  color: #ccc;
+  font-size: 20px;
+  margin-top: 6px;
+  padding: 7px;
+}
+
+/* Media query for smaller screens */
+@media (max-width: 768px) {
+  .cart-item {
+    /* Change to a 1-column layout for smaller screens */
+    display: grid;
+    gap: -50px;
+    grid-column: 1;
+    margin-bottom: 30px;
+    margin-left: -60px;
+    max-height: fit-content; /* Allow the container to adjust its height based on the content */
+    width: 315px;
+  }
+
+  .image-cover {
+    height: 60%; /* Allow the image to adjust its height based on the width */
+    margin-top: -90px;
+    width: 100%;
+  }
+
+  .js {
+    margin-top: -180px;
+    padding-left: 0;
+  }
+}

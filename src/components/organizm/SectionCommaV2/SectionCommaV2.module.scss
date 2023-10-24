@@ -1,0 +1,41 @@
+@import '@sass/mixins/index';
+
+.section-comma {
+  background: var(--color-tertiary);
+  border-radius: 30px;
+  width: 100%;
+
+  @include padding-y(5.3rem);
+  @include media-query('md') {
+    border-radius: 50px;
+  }
+
+  &__container {
+    margin: 0 auto;
+    max-width: 34.5rem;
+    text-align: center;
+  }
+
+  &__icon {
+    color: var(--color-primary);
+    height: 4rem;
+    transform: rotate(180deg);
+    width: 6.4rem;
+
+    @include media-query('md') {
+      height: 5.7rem;
+      width: 7.4rem;
+    }
+  }
+
+  &__text {
+    font-style: italic;
+    margin: 0;
+    padding: 1.6rem 1rem 0;
+    @include heading-styles('small', $color: var(--color-primary));
+
+    @include media-query('md') {
+      padding: 0.8rem 0 0;
+    }
+  }
+}

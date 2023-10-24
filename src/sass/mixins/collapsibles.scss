@@ -1,0 +1,15 @@
+@mixin collapsible-title {
+  align-items: center;
+  cursor: pointer;
+  display: flex;
+  justify-content: space-between;
+  list-style: none;
+  user-select: none;
+}
+
+@mixin collapsible-text {
+  cursor: default;
+  margin: 0;
+  max-width: 88%;
+  @include body-styles('large');
+}

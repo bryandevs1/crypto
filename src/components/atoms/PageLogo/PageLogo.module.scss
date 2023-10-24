@@ -1,0 +1,19 @@
+@import '@sass/mixins/index';
+
+.page-logo {
+  align-items: center;
+  display: flex;
+  font-family: var(--font-family-primary);
+  font-size: 3rem;
+  gap: 1rem;
+  line-height: var(--line-height-heading);
+  margin-left: -130px;
+  text-decoration: none;
+  @include reset-link-style;
+}
+
+@media (max-width: 724px) {
+  .page-logo {
+    margin-left: 0;
+  }
+}

@@ -1,0 +1,81 @@
+@import '@sass/mixins/index';
+
+$card-width: 28.3rem;
+
+.employee-card {
+  height: 43.3rem;
+  position: relative;
+  text-align: center;
+  width: $card-width;
+
+  &__wrapper {
+    height: 100%;
+    transform-style: preserve-3d;
+    transition: transform 0.5s ease;
+    width: 100%;
+  }
+
+  &:hover > &__wrapper {
+    transform: rotateY(180deg);
+  }
+}
+
+.card-back {
+  background: var(--color-white-100);
+  min-height: 100%;
+  min-width: 100%;
+  padding: 7rem 2.8rem;
+  transform: rotateY(180deg);
+
+  &__name {
+    font-family: var(--font-family-primary), sans-serif;
+    font-size: 2rem;
+
+    @include media-query('md') {
+      font-size: 2.5rem;
+    }
+  }
+
+  &__profession-country {
+    @include body-styles('small');
+  }
+
+  &__phone,
+  &__email {
+    @include body-styles('small');
+  }
+
+  &__name,
+  &__profession-country,
+  &__phone,
+  &__email {
+    margin: 0;
+    max-width: $card-width;
+    word-wrap: break-word;
+  }
+}
+
+.card-front {
+  height: 100%;
+  width: 100%;
+  z-index: -1;
+}
+
+.card-front,
+.card-back {
+  backface-visibility: hidden;
+  border-radius: 30px;
+  left: 0;
+  overflow: hidden;
+  position: absolute;
+  top: 0;
+}
+
+.social-media {
+  display: flex;
+  gap: 3.6rem;
+  justify-content: center;
+  list-style: none;
+  margin: 0;
+  padding: 6.6rem 0;
+}

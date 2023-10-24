@@ -1,0 +1,47 @@
+:root {
+  /* Colors */
+  --color-dark-110: #191c20;
+  --color-dark-130: #1f2022;
+  --color-dark-190: #292f36;
+  --color-dark-310: #4d5053;
+
+  --color-gray-750: #c0c0c059;
+  --color-gray-110: #1c1c1c30;
+
+  --color-white-100: #ffffff;
+  --color-white-810: #cecece;
+  --color-white-910: #e7e7e7;
+
+  --color-black-0: #000000;
+
+  --color-red-50: #ff0000;
+
+  --color-golden-570: #b99268;
+  --color-golden-630: #cda274;
+  --color-golden-940: #f4f0ec;
+
+  --color-rgba-dark: rgba(10, 10, 10, 0.7);
+
+  /* Base */
+  --color-primary: var(--color-golden-630);
+  --color-secondary: var(--color-dark-190);
+  --color-tertiary: var(--color-golden-940);
+  --color-base: var(--color-dark-310);
+
+  --modal-overlay-color: var(--color-gray-110);
+
+  --font-family-primary: 'Dm Serif Display';
+  --font-family-secondary: 'Jost';
+  --line-height-heading: 1.22;
+  --line-height-base: 1.5;
+  --font-size-base: 1.6rem;
+
+  --container-width: 1200px;
+
+  /* buttons */
+
+  --btn-base: var(--color-secondary);
+  --btn-primary: var(--color-primary);
+  --btn-secondary: var(--color-dark-110);
+  --btn-tertiary: var(--color-golden-570);
+}

@@ -1,0 +1,9 @@
+@import '@sass/mixins/index';
+
+.section-achievments {
+  margin: 10rem auto;
+
+  @include media-query('lg') {
+    margin: 20rem auto;
+  }
+}

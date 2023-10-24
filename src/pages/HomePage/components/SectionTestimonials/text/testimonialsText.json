@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "imgUrl": "/assets/images/Nattasha-picture.jpg",
+    "name": "Nattasha Mith",
+    "address": "Lekki, Lagos",
+    "comment": "Working with Forte Imperiali was an absolute pleasure! Their keen eye for detail and creative visio transformed my space into a beautiful, functional haven. I couldn't be happier witht eh results"
+  },
+  {
+    "id": 2,
+    "imgUrl": "/assets/images/Raymond-picture.jpg",
+    "name": "Raymond Galario",
+    "address": "Chevron, Lagos",
+    "comment": "From concept to completion, Forte Imperiali exceeded my expectations. They listened to my ideas and seamlessly incorporated them into a cohesive design that reflects my style perfectly. I highly recomment their services!"
+  },
+  {
+    "id": 3,
+    "imgUrl": "/assets/images/Benny-picture.jpg",
+    "name": "Benny Roll",
+    "address": "Badagary, Lagos",
+    "comment": "I was initially overhelmed with the idea of redesigning my home but Forte Imperiali made the process enjoyable and stress-free. Their expertise, professionalism and impeccable taste transformed my space beyond my wildest dreams!"
+  }
+]
